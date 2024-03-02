@@ -1324,9 +1324,19 @@
   ],
   "parses": [
     {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    }，
+    {
       "name": "并发",
       "type": 2,
       "url": "Parallel"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
     },
     {
       "name": "嗅探",
