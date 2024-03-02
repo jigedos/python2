@@ -13,9 +13,15 @@
     }
   ],
   "sites": [
-
-{"key":"csp_DouDou","name":"🔍更新：24.2.22","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-
+    {
+      "key": "csp_DouDou",
+      "name": "🔍更新：24.2.22",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
     {
       "key": "py_cctv",
       "name": "CCTV转播",
@@ -26,7 +32,7 @@
       "filterable": 0,
       "ext": "./py/py_cctv_1.py"
     },
-     {
+    {
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
       "type": 3,
@@ -80,7 +86,6 @@
       "api": "./lib/drpy2.min.js",
       "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/百忙无果.js"
     },
-
     {
       "key": "QTV",
       "name": "🚩腾讯4K",
@@ -88,8 +93,17 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/txvip.js"
     },
-    {"key": "meowtv_yksp","name": "🚩优酷视频","type": 3,"api": "MJS_yksp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/优酷视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
-        {
+    {
+      "key": "meowtv_yksp",
+      "name": "🚩优酷视频",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/优酷视频.js"
+    },
+    {
       "key": "sohu",
       "name": "🚩搜狐视频",
       "type": 1,
@@ -98,10 +112,26 @@
       "quickSearch": 1,
       "playUrl": "parse:并发"
     },
-    {"key": "meowtv_sgys","name": "🚩搜狗视频","type": 3,"api": "MJS_sgys"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/搜狗视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
-
-       {"key": "meowtv_shys","name": "骚火影视","type": 3,"api": "MJS_shys"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/骚火影视.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
-
+    {
+      "key": "meowtv_sgys",
+      "name": "🚩搜狗视频",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/搜狗视频.js"
+    },
+    {
+      "key": "meowtv_shys",
+      "name": "骚火影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/骚火影视.js"
+    },
     {
       "key": "meowtv_Mmys",
       "name": "萌米影视",
@@ -123,11 +153,33 @@
       "ext": "https://www.kuin.one/api.php/app/",
       "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
-   
-  	{"key":"农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民影视.json"},
-	{"key":"碟调影视","name":"碟调影视","type":3,"api":"./JS/drpy.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/%E7%A2%9F%E8%B0%83%E5%BD%B1%E8%A7%86.js"},
-
-  {"key":"电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/%E7%94%B5%E5%BD%B1%E7%89%9B.json"},
+    {
+      "key": "农民影视",
+      "name": "农民影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/农民影视.json"
+    },
+    {
+      "key": "碟调影视",
+      "name": "碟调影视",
+      "type": 3,
+      "api": "./JS/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/%E7%A2%9F%E8%B0%83%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "电影牛",
+      "name": "电影牛",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/%E7%94%B5%E5%BD%B1%E7%89%9B.json"
+    },
     {
       "key": "meowtv_ddys",
       "name": "1低端影视",
@@ -386,7 +438,6 @@
         "冒险片"
       ]
     },
-
     {
       "key": "淘片资源",
       "name": "🐅淘片资源",
@@ -914,7 +965,6 @@
       "filterable": 1,
       "ext": "./json/哔哩戏曲.json"
     },
-  
     {
       "key": "女团热舞",
       "name": "💃女团热舞",
@@ -935,12 +985,37 @@
       "filterable": 1,
       "ext": "./json/短剧网.json"
     },
-      {"key": "meowtv_fqdj","name": "📱番茄短剧","type": 3,"api": "MJS_fqdj"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/番茄短剧.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
-
-    {"key": "meowtv_hmdj","name": "📱河马短剧","type": 3,"api": "csp_Duanjuw"    ,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://meowtv.cn/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"},
-    {"key": "meowtv_rxdj","name": "📱锐星短剧","type": 3,"api": "csp_AppYsV2"    ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.228.84.103:6822/api.php/app/"},
-
-        {
+    {
+      "key": "meowtv_fqdj",
+      "name": "📱番茄短剧",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/番茄短剧.js"
+    },
+    {
+      "key": "meowtv_hmdj",
+      "name": "📱河马短剧",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://meowtv.cn/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"
+    },
+    {
+      "key": "meowtv_rxdj",
+      "name": "📱锐星短剧",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.84.103:6822/api.php/app/"
+    },
+    {
       "key": "兴趣健身",
       "name": "🦾兴趣健身",
       "type": 3,
@@ -950,13 +1025,65 @@
       "filterable": 1,
       "ext": "./json/哔哩健身.json"
     },
-       {"key": "meowtv_dyzb","name": "📺斗鱼直播","type": 3,"api": "MJS_dyzb"       ,"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "http://cdn.teyonds.com/js/斗鱼直播.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
-    {"key": "meowtv_blzb","name": "📺哔哩直播","type": 3,"api": "MJS_blzb"       ,"searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://cdn.teyonds.com/js/哔哩直播.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
-    {"key": "meowtv_jhzb","name": "📺聚合直播","type": 3,"api": "csp_Yj1211"     ,"searchable": 0,"quickSearch": 0,"changeable": 0},
-    {"key": "meowtv_jdsp","name": "📺聚短视频","type": 3,"api": "MJS_jdsp"       ,"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "http://cdn.teyonds.com/js/聚短视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
-    {"key": "meowtv_blhj","name": "📺哔哩合集","type": 3,"api": "csp_Bili"       ,"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "http://cdn.teyonds.com/xp/哔哩合集.json"},
-    {"key": "meowtv_blgq","name": "📺哔哩歌曲","type": 3,"api": "csp_Bili"       ,"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "http://cdn.teyonds.com/xp/哔哩歌曲.json"},
-
+    {
+      "key": "meowtv_dyzb",
+      "name": "📺斗鱼直播",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/js/斗鱼直播.js"
+    },
+    {
+      "key": "meowtv_blzb",
+      "name": "📺哔哩直播",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://cdn.teyonds.com/js/哔哩直播.js"
+    },
+    {
+      "key": "meowtv_jhzb",
+      "name": "📺聚合直播",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "meowtv_jdsp",
+      "name": "📺聚短视频",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/js/聚短视频.js"
+    },
+    {
+      "key": "meowtv_blhj",
+      "name": "📺哔哩合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/xp/哔哩合集.json"
+    },
+    {
+      "key": "meowtv_blgq",
+      "name": "📺哔哩歌曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/xp/哔哩歌曲.json"
+    },
     {
       "key": "py_cctv_企鹅",
       "name": "📺体育｜直播",
@@ -1094,12 +1221,66 @@
       "quickSearch": 1,
       "changeable": 1
     },
-        {"key": "meowtv_txdh","name": "🎉腾讯动画","type": 3,"api": "MJS_txdh"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/腾讯动画.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
-    {"key": "meowtv_qydh","name": "🎉奇艺动画","type": 3,"api": "MJS_qydh"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/奇艺动画.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
-    {"key": "meowtv_mgdh","name": "🎉芒果动画","type": 3,"api": "MJS_mgdh"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/芒果动画.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
-    {"key": "meowtv_tqss","name": "📚童趣搜视","type": 3,"api": "MJS_tqss"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/童趣搜视.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
-    {"key": "meowtv_etqm","name": "📚儿童启蒙","type": 3,"api": "MJS_txb"        ,"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "http://cdn.teyonds.com/js/儿童启蒙.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
-    {"key": "meowtv_dtgx","name": "📚灯塔国学","type": 3,"api": "csp_Bili"       ,"searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://cdn.teyonds.com/xp/灯塔国学.json"},
+    {
+      "key": "meowtv_txdh",
+      "name": "🎉腾讯动画",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/腾讯动画.js"
+    },
+    {
+      "key": "meowtv_qydh",
+      "name": "🎉奇艺动画",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/奇艺动画.js"
+    },
+    {
+      "key": "meowtv_mgdh",
+      "name": "🎉芒果动画",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/芒果动画.js"
+    },
+    {
+      "key": "meowtv_tqss",
+      "name": "📚童趣搜视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/童趣搜视.js"
+    },
+    {
+      "key": "meowtv_etqm",
+      "name": "📚儿童启蒙",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/js/儿童启蒙.js"
+    },
+    {
+      "key": "meowtv_dtgx",
+      "name": "📚灯塔国学",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://cdn.teyonds.com/xp/灯塔国学.json"
+    },
     {
       "key": "幼儿教育",
       "name": "📚幼儿教育",
@@ -1153,6 +1334,19 @@
       "url": "Web"
     },
     {
+      "name": "非凡火力",
+      "type": 1,
+      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
+      "ext": {
+        "flag": [
+          "seven"
+        ],
+        "header": {
+          "User-Agent": "Lavf/58.12.100"
+        }
+      }
+    },
+    {
       "name": "小小VIP解析",
       "type": 1,
       "url": "http://jx.meowtv.cn/?url="
@@ -1194,7 +1388,7 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
-   {
+    {
       "name": "非凡X解析",
       "type": 1,
       "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url=",
