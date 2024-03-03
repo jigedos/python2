@@ -129,9 +129,6 @@
       "api": "./lib/drpy2.min.js",
       "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/360影视.js"
     },
-
-
-   
    
     {
       "key": "360_spider",
@@ -142,6 +139,21 @@
       "quickSearch": 1,
       "searchable": 1
  },
+        {
+            "key":"MTV合集",
+            "name":"MTV合集",
+            "type":1,
+            "api":"https://tvbox-mv-xianlaihuyu.koyeb.app/mv/vod",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "changeable":0
+        },
+
+
+
+
+    
 
     {
       "key": "农民影视",
@@ -322,6 +334,30 @@
         "冒险片"
       ]
     },
+
+ {
+            "key":"暴风资源",
+            "name":"🌩️暴风资源",
+            "type":1,
+            "api":"https://bfzyapi.com/api.php/provide/vod/?ac=list",
+            "changeable":0,
+            "categories":[
+                "国产剧",
+                "国产动漫",
+                "大陆综艺",
+                "港台综艺",
+                "香港剧",
+                "台湾剧",
+                "日本剧",
+                "欧美剧",
+                "泰国剧",
+                "纪录片",
+                "科幻片",
+                "喜剧片",
+                "战争片"
+            ]
+        },
+    
     {
       "key": "淘片资源",
       "name": "🐅淘片资源",
