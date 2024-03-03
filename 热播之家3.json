@@ -125,7 +125,7 @@
 
       {
     "key":"农民影视",
-    "name":"拾光┃农民",
+    "name":"🎥农民",
     "type":3,
     "api":"csp_XYQHiker",
     "searchable":1,
@@ -137,7 +137,7 @@
 
    {
             "key": "不鑫影院",
-            "name": "拾光┃鑫鑫",
+            "name": "🎥鑫鑫",
             "type": 1,
             "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
             "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
@@ -146,14 +146,14 @@
         },
     {
       "key": "drpy_js_哔哩影视",
-      "name": "拾光┃BL2K",
+      "name": "🎥哔哩",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/哔哩影视.js"
     },
 {      
     "key": "小城小城",      
-    "name": "拾光┃小城秒播",      
+    "name": "🎥小城",      
     "type": 1,      
     "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",      
     "playUrl": "",      
@@ -165,7 +165,7 @@
       
     {
       "key": "meowtv_shys",
-      "name": "骚火影视",
+      "name": "🎥骚火影视",
       "type": 3,
       "api": "http://cdn.teyonds.com/js/drpy2.min.js",
       "searchable": 1,
@@ -175,7 +175,7 @@
     },
     {
       "key": "meowtv_Mmys",
-      "name": "萌米影视",
+      "name": "🎥萌米影视",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -185,7 +185,7 @@
     },
     {
       "key": "meowtv_jhys",
-      "name": "One 影视",
+      "name": "🎥One 影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -194,26 +194,17 @@
       "ext": "https://www.kuin.one/api.php/app/",
       "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
-    {
-      "key": "农民影视",
-      "name": "农民影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/农民影视.json"
-    },
+  
     {
       "key": "碟调影视",
-      "name": "碟调影视",
+      "name": "🎥碟调影视",
       "type": 3,
       "api": "./JS/drpy.min.js",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/%E7%A2%9F%E8%B0%83%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "电影牛",
-      "name": "电影牛",
+      "name": "🎥电影牛",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -223,7 +214,7 @@
     },
     {
       "key": "meowtv_ddys",
-      "name": "1低端影视",
+      "name": "🎥低端影视",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -233,7 +224,7 @@
     },
     {
       "key": "meowtv_dyxs",
-      "name": "2先生影视",
+      "name": "🎥先生影视",
       "type": 3,
       "api": "http://cdn.teyonds.com/js/drpy2.min.js",
       "searchable": 1,
@@ -243,7 +234,7 @@
     },
     {
       "key": "meowtv_mays",
-      "name": "3米爱影视",
+      "name": "🎥米爱影视",
       "type": 3,
       "api": "http://cdn.teyonds.com/js/drpy2.min.js",
       "searchable": 1,
@@ -253,7 +244,7 @@
     },
     {
       "key": "meowtv_sjys",
-      "name": "4视觉影视",
+      "name": "🎥视觉影视",
       "type": 3,
       "api": "http://cdn.teyonds.com/js/drpy2.min.js",
       "searchable": 1,
@@ -263,7 +254,7 @@
     },
     {
       "key": "meowtv_thys",
-      "name": "5土豪AD",
+      "name": "🎥土豪AD",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -273,7 +264,7 @@
     },
     {
       "key": "meowtv_ynys",
-      "name": "6鸭奈影视",
+      "name": "🎥鸭奈影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -284,7 +275,7 @@
     },
     {
       "key": "meowtv_bdys",
-      "name": "7哔嘀2k纯净",
+      "name": "🎥哔嘀2k纯净",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -295,7 +286,7 @@
     },
     {
       "key": "meowtv_dgys",
-      "name": "8达龟影视AD",
+      "name": "🎥达龟影视AD",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -305,7 +296,7 @@
     },
     {
       "key": "meowtv_akyy",
-      "name": "9爱看",
+      "name": "🎥爱看",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -316,7 +307,7 @@
     },
     {
       "key": "meowtv_akys",
-      "name": "10爱看(备用)",
+      "name": "🎥爱看(备用)",
       "type": 3,
       "api": "csp_Ikanbot",
       "searchable": 1,
@@ -327,7 +318,7 @@
     },
     {
       "key": "meowtv_Shys",
-      "name": "11双黄影视",
+      "name": "🎥双黄影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -338,7 +329,7 @@
     },
     {
       "key": "meowtv_myys",
-      "name": "12麻衣影视",
+      "name": "🎥麻衣影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -349,7 +340,7 @@
     },
     {
       "key": "meowtv_Kkys",
-      "name": "13库库影视",
+      "name": "🎥库库影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -360,7 +351,7 @@
     },
     {
       "key": "meowtv_wwys",
-      "name": "14五五影视",
+      "name": "🎥五五影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -370,7 +361,7 @@
     },
     {
       "key": "meowtv_kcys",
-      "name": "15酷茶影视",
+      "name": "🎥酷茶影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -380,7 +371,7 @@
     },
     {
       "key": "meowtv_xxys",
-      "name": "16新新影视",
+      "name": "🎥新新影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -390,7 +381,7 @@
     },
     {
       "key": "meowtv_lzzy",
-      "name": "17量子资源",
+      "name": "🎥量子资源",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -416,7 +407,7 @@
     },
     {
       "key": "meowtv_snzy",
-      "name": "18索尼资源",
+      "name": "🎥索尼资源",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -452,7 +443,7 @@
     },
     {
       "key": "meowtv_kkzy",
-      "name": "19快看资源",
+      "name": "🎥快看资源",
       "type": 1,
       "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
       "searchable": 1,
