@@ -152,7 +152,7 @@
 
    {
       "key": "哔嘀",
-      "name": "哔嘀💋秒播",
+      "name": "哔嘀",
       "type": 3,
       "api": "csp_Bdys",
       "searchable": 1,
@@ -162,7 +162,7 @@
     },
        	{
       "key": "meowtv_yszj",
-      "name": "迪哥💋秒播",
+      "name": "迪哥AD",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -172,7 +172,7 @@
     },
     	{
 			"key": "天天",
-			"name": "天天💋秒播",
+			"name": "天天",
 			"type": 3,
 			"api": "csp_TTian",
 			"playerType": 1,
@@ -181,7 +181,7 @@
 		},
            {
       "key": "meowtv_kkys",
-      "name": "快看🏮蓝光",
+      "name": "快看",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -191,7 +191,7 @@
     },
      {   
       "key": "火狐3",
-      "name": "火狐🏮蓝光",
+      "name": "火狐AD",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -233,7 +233,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./bin/七夕影视.json"
+      "ext": "./json/七夕影视.json"
     },
 
     {
@@ -244,7 +244,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./bin/五月影视.json"
+      "ext": "./json/五月影视.json"
     },
     {
       "key": "csp_米爱",
@@ -254,7 +254,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./bin/米爱影视.json"
+      "ext": "./json/米爱影视.json"
     },
 
     {
