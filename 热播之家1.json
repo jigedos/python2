@@ -131,7 +131,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "jar": "./jar.php",
+    "jar": "./jar/jar.php",
     "ext":"./lib/农民影视.json"},
 
 
