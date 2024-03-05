@@ -275,16 +275,22 @@
       "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
     },
 
- {"key":"横版影院","name":"综合","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":[
+ {"key":"预告片","name":"解说&预先片","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":[
         "预告片",
         "电影解说",
-        "短剧",
+        "短剧"
+        ]
+     },
+
+ {"key":"体育","name":"体育","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":[
+       
         "体育",
         "足球",
         "篮球",
-        "网球",
-        "斯诺克",
-        "科幻片",
+        "网球"
+        ]
+     }， {"key":"横版影院","name":"综合","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":[
+              "科幻片",
         "动作片",
         "恐怖片",
         "纪录片",
@@ -295,8 +301,6 @@
         "欧美剧"
         ]
      },
-
-
 	  
     {
       "key": "小灯塔",
