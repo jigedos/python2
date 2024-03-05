@@ -98,6 +98,32 @@
       "changeable": 0,
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/MTV.json"
     },
+     {"key":"哔哩音乐","name":"💽哔哩音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/哔哩音乐.json"},
+{
+      "key": "直播转点播2",
+      "name": "💽歌曲 ",
+      "type": 4,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "api": "http://120.53.102.254/dsp",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+
+     {
+      "key": "吾爱演唱会",
+      "name": "💽演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/吾爱演唱会.json"
+    }
     {
       "key": "戏曲杂苑",
       "name": "🥸哔哩戏曲",
