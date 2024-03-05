@@ -61,7 +61,7 @@
       "filterable": 1,
       "changeable": 0
     },
-     {
+    {
       "key": "小城",
       "name": "💽纯净+K歌",
       "type": 1,
@@ -98,8 +98,17 @@
       "changeable": 0,
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/MTV.json"
     },
-     {"key":"哔哩音乐","name":"💽哔哩音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/哔哩音乐.json"},
-{
+    {
+      "key": "哔哩音乐",
+      "name": "💽哔哩音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/哔哩音乐.json"
+    },
+    {
       "key": "直播转点播2",
       "name": "💽歌曲 ",
       "type": 4,
@@ -113,8 +122,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-
-     {
+    {
       "key": "吾爱演唱会",
       "name": "💽演唱会",
       "type": 3,
@@ -123,7 +131,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/吾爱演唱会.json"
-    }
+    },
     {
       "key": "戏曲杂苑",
       "name": "🥸哔哩戏曲",
@@ -134,7 +142,6 @@
       "filterable": 1,
       "ext": "./lib/哔哩戏曲.json"
     },
-   
     {
       "key": "meowtv_blhj",
       "name": "📺哔哩合集",
@@ -155,7 +162,6 @@
       "changeable": 0,
       "ext": "http://cdn.teyonds.com/xp/哔哩歌曲.json"
     },
-   
     {
       "key": "相声小品",
       "name": "🎭相声小品",
@@ -236,7 +242,6 @@
         "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
       }
     },
-    
     {
       "key": "csp_Bili",
       "name": "🅱休闲综合",
