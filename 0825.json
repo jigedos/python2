@@ -67,6 +67,16 @@
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/小灯塔国学.json"
     },
+        {
+      "key": "meowtv_dtgx",
+      "name": "📚灯塔国学(备）",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://cdn.teyonds.com/xp/灯塔国学.json"
+    },
     {
       "key": "小灯塔人文",
       "name": "💕小灯塔人文",
@@ -233,52 +243,7 @@
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar"
     },
     
-    {
-      "key": "mtv_xp_动漫巴士",
-      "name": "🎉动漫巴士1",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./json/动漫巴士.json"
-    },
-    {
-      "key": "巴士",
-      "name": "🎉动漫巴士2",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/custom_spider.jar;md5;012dbdf7aebe1c301c6b87be83a213d4"
-    },
-    {
-      "key": "csp_Dm84",
-      "name": "🎉动漫巴士3",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Anime1",
-      "name": "🎉日本动漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "mtv_pc_樱花动漫",
-      "name": "🎉樱花动漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+ 
     
     {
       "key": "硬笔",
@@ -341,6 +306,52 @@
       "filterable": 1,
       "ext": "http://cdn.teyonds.com/js/芒果动画.js"
     },
+       {
+      "key": "mtv_xp_动漫巴士",
+      "name": "🎉动漫巴士1",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/动漫巴士.json"
+    },
+    {
+      "key": "巴士",
+      "name": "🎉动漫巴士2",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./jar/custom_spider.jar;md5;012dbdf7aebe1c301c6b87be83a213d4"
+    },
+    {
+      "key": "csp_Dm84",
+      "name": "🎉动漫巴士3",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Anime1",
+      "name": "🎉日本动漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "mtv_pc_樱花动漫",
+      "name": "🎉樱花动漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "meowtv_tqss",
       "name": "📚童趣搜视",
@@ -361,16 +372,7 @@
       "changeable": 0,
       "ext": "http://cdn.teyonds.com/js/儿童启蒙.js"
     },
-    {
-      "key": "meowtv_dtgx",
-      "name": "📚灯塔国学",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://cdn.teyonds.com/xp/灯塔国学.json"
-    },
+
     {
       "key": "幼儿教育",
       "name": "📚幼儿教育",
