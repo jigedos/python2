@@ -25,7 +25,7 @@
    
     {
       "key": "体育",
-      "name": "体育",
+      "name": "🏀体育",
       "type": 1,
       "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
       "searchable": 1,
@@ -39,6 +39,20 @@
       ]
     },
    
+{"key":"88js","name":"⚽ 88看球","type":3,"api":"csp_Kanqiu","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"Jrsjs","name":"⚽ Jrs球迷","type": 3,"api":"./js/drpy2.min.js","ext":"./js/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"310js","name":"⚽310看球","type":3,"api":"./js/drpy2.min.js","ext":"./js/310直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"企鹅体育xp","name":"🐧鹅鹅体育","type":3,"api":"csp_XPath","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./json/企鹅直播.json"},
+     {
+      "key": "py_cctv_企鹅",
+      "name": "📺体育直播",
+      "type": 3,
+      "api": "py_cctv_full",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/py_企鹅体育.py"
+    }，
     {
       "key": "兴趣健身",
       "name": "🦾兴趣健身",
@@ -100,16 +114,7 @@
       "ext": "http://cdn.teyonds.com/xp/哔哩合集.json"
     },
    
-    {
-      "key": "py_cctv_企鹅",
-      "name": "📺体育｜直播",
-      "type": 3,
-      "api": "py_cctv_full",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./json/py_企鹅体育.py"
-    },
+
    
     {
       "key": "csp_Bili",
@@ -124,7 +129,7 @@
    
     {
       "key": "健身",
-      "name": "养生﹠健身",
+      "name": "🪁养生﹠健身",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
