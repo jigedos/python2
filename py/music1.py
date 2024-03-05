@@ -84,7 +84,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/哔哩戏曲.json"
+      "ext": "../lib/哔哩戏曲.json"
     },
    
     {
@@ -116,7 +116,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/哔哩相声.json"
+      "ext": "../json/哔哩相声.json"
     },
     {
       "key": "相声",
