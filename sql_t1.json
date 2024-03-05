@@ -1459,6 +1459,65 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	  {
+      "key": "csp_Bili",
+      "name": "🅱休闲综合",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/bilizh.json"
+    },
+    {
+      "key": "音乐",
+      "name": "🎤文艺综合",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/文艺.json"
+    },
+    {
+      "key": "软件",
+      "name": "📚教程﹠讲座",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/教程.json"
+    },
+	    {
+      "key": "软件",
+      "name": "📚外语学习",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/外语.json"
+    },
+    {
+      "key": "儿童",
+      "name": "🐯儿童乐园",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/儿童.json"
+    },
+    {
+      "key": "健身",
+      "name": "养生﹠健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch":0,
+      "ext": "./json/健身.json"
+    },
     {
       "key": "meowtv_txdh",
       "name": "🎉腾讯动画",
