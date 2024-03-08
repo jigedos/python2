@@ -32,6 +32,49 @@
       "filterable": 0,
       "ext": "./py/py_cctv_1.py"
     },
+      {
+      "key": "央视经典",
+      "name": "💫CCTV┃经典",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "http://www.wya6.cn/tz/wyxy.php",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/%E5%93%94%E5%93%A9%E7%BB%8F%E5%85%B8.json"
+    },
+    {
+      "key": "cctv",
+      "name": "💫CCTV｜大全",
+      "type": 3,
+      "jar": "http://www.wya6.cn/tz/HCCX.php",
+      "api": "csp_CCTV",
+      "searchable": 0,
+      "filterable": 0,
+      "ext": "./json/%E5%A4%AE%E8%A7%86%E5%A4%A7%E5%85%A8.json"
+    },
+    {
+      "key": "py_cctv",
+      "name": "🇨🇳CCTV┃PY",
+      "type": 3,
+      "api": "py_cctv",
+      "jar": "http://www.wya6.cn/tz/wyog.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/py1.json"
+    },
+    {
+      "key": "py_cctvdc",
+      "name": "🇨🇳央视片库┃PY",
+      "type": 3,
+      "api": "py_cctv",
+      "jar": "http://www.wya6.cn/tz/wyog.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/py2.json"
+    },
     {
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
