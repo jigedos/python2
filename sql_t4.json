@@ -25,7 +25,7 @@
 
        {
       "key": "csp_Bili_Meinvw",
-      "name": "😍┃扭团┃美女",
+      "name": "😍B站美女",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -36,7 +36,7 @@
     },
     {
       "key": "csp_Bili_Nvtuan",
-      "name": "😍┃妞妞┃美女",
+      "name": "😍女团音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -47,7 +47,7 @@
     },
     {
       "key": "短视频",
-      "name": "😍┃短视┃美女",
+      "name": "😍短视频",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 0,
@@ -56,19 +56,9 @@
       "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/短视频聚合.json"
     },
+  
     {
-      "key": "csp_酷奇",
-      "name": "🎻┃酷奇┃音乐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./json/酷奇MV.json"
-    },
-    {
-      "key": "MV_vod",
+      "key": "MV_vod1",
       "name": "🎻┃咯咯┃音乐",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
@@ -77,7 +67,7 @@
       "filterable": 1
     },
     {
-      "key": "csp_Bili_MTV",
+      "key": "csp_Bili_MTV1",
       "name": "🎻┃哔哩┃音乐",
       "type": 3,
       "api": "csp_Bili",
@@ -178,7 +168,7 @@
     },
 
     {
-      "key": "Bili",
+      "key": "Bilixq",
       "name": "🅱️┃哔哔┃戏曲",
       "type": 3,
       "api": "csp_Bili",
