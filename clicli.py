@@ -40,7 +40,7 @@
        "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/%E5%93%94%E5%93%A9%E7%BB%8F%E5%85%B8.json"
+      "ext": "./json/json_哔哩经典.json"
     },
     {
       "key": "cctv",
@@ -49,7 +49,7 @@
       "api": "csp_CCTV",
       "searchable": 0,
       "filterable": 0,
-      "ext": "./json/%E5%A4%AE%E8%A7%86%E5%A4%A7%E5%85%A8.json"
+      "ext": "./json/json_央视大全.json"
     },
     {
       "key": "py_cctv1",
@@ -59,7 +59,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/py1.json"
+      "ext": "./json/json_py1.json"
     },
     {
       "key": "py_cctvdc",
@@ -69,7 +69,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/py2.json"
+      "ext": "./json/json_py2.json"
     },
     {
       "key": "直播转点播",
