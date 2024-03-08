@@ -31,7 +31,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/meinv.json"
     },
     {
@@ -42,7 +42,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/nvtuan.json"
     },
     {
@@ -53,7 +53,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/短视频聚合.json"
     },
     {
@@ -64,7 +64,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/酷奇MV.json"
     },
     {
@@ -84,7 +84,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/mtv.json"
     },
     {
@@ -95,7 +95,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/yinyue.json"
     },
     {
@@ -118,7 +118,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/搭讪.json"
     },
     {
@@ -129,8 +129,52 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/搭配.json"
+    },
+    {
+      "key": "csp_Bili_youer",
+      "name": "👶┃幼儿┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "./json/youer.json"
+    },
+    {
+      "key": "csp_Bili_xiaoxue",
+      "name": "👶┃小学┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "./json/xiaoxue.json"
+    },
+    {
+      "key": "csp_Bili_czxx",
+      "name": "👶┃初中┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "./json/chuzhong.json"
+    },
+    {
+      "key": "csp_Bili_gaozxx",
+      "name": "👶┃高中┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "./json/gaozhong.json"
     },
 
     {
@@ -150,7 +194,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/bili.json"
     },
     {
@@ -161,7 +205,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/zyy.json"
     },
     {
@@ -172,7 +216,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/xiqu.json"
     },
     {
