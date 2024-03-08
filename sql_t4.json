@@ -25,7 +25,7 @@
 
        {
       "key": "csp_Bili_Meinvw",
-      "name": "😍B站美女",
+      "name": "1😍B站美女",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -36,7 +36,7 @@
     },
     {
       "key": "csp_Bili_Nvtuan",
-      "name": "😍女团音乐",
+      "name": "2😍女团音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -47,7 +47,7 @@
     },
     {
       "key": "短视频",
-      "name": "😍短视频",
+      "name": "3😍短视频",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 0,
@@ -57,29 +57,9 @@
       "ext": "./json/短视频聚合.json"
     },
   
-    {
-      "key": "MV_vod1",
-      "name": "🎻┃咯咯┃音乐",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Bili_MTV1",
-      "name": "🎻┃哔哩┃音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./json/mtv.json"
-    },
-    {
+     {
       "key": "csp_Bili_Yinl2",
-      "name": "🎻┃音悦┃音乐",
+      "name": "4🎻┃音悦┃音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -88,21 +68,10 @@
       "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/yinyue.json"
     },
-    {
-      "key": "MV_vod",
-      "name": "🎻┃明星┃音乐",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "style": {
-        "type": "oval"
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+  
     {
       "key": "csp_Bili_dashan",
-      "name": "💋┃搭讪┃教程",
+      "name": "5💋┃搭讪┃教程",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -113,7 +82,7 @@
     },
     {
       "key": "csp_Bili__dapei",
-      "name": "💋┃搭配┃教程",
+      "name": "6💋┃搭配┃教程",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -122,74 +91,10 @@
       "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/搭配.json"
     },
-    {
-      "key": "csp_Bili_youer",
-      "name": "👶┃幼儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./json/youer.json"
-    },
-    {
-      "key": "csp_Bili_xiaoxue",
-      "name": "👶┃小学┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./json/xiaoxue.json"
-    },
-    {
-      "key": "csp_Bili_czxx",
-      "name": "👶┃初中┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./json/chuzhong.json"
-    },
-    {
-      "key": "csp_Bili_gaozxx",
-      "name": "👶┃高中┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./json/gaozhong.json"
-    },
-
-    {
-      "key": "Bilixq",
-      "name": "🅱️┃哔哔┃戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "./json/bili.json"
-    },
-    {
-      "key": "csp_Bili",
-      "name": "🅱️┃哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./json/bili.json"
-    },
+ 
     {
       "key": "csp_Bili_zyy",
-      "name": "🅱️┃中医┃药区",
+      "name": "7🅱️┃中医┃药区",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -200,7 +105,7 @@
     },
     {
       "key": "csp_Bili_xuqu1",
-      "name": "🅱️┃戏曲┃合集",
+      "name": "8🅱️┃戏曲┃合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -209,6 +114,78 @@
       "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/xiqu.json"
     },
+
+       {
+      "key": "drpy_js_蜻蜓FM",
+      "name": "1FM┃蜻蜓",
+      "type": 3,
+      "api": "https://aoki.codered.cloud/lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "https://aoki.codered.cloud/lib/蜻蜓FM.js"
+    },
+   {
+      "key": "py_cctv",
+      "name": "2cctv综合",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://aoki.codered.cloud/lib/py_cctv.py"
+    },
+    {
+      "key": "m1905",
+      "name": "3cctv电影",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://aoki.codered.cloud/lib/m1905.py"
+    },
+    {
+      "key": "cctv",
+      "name": "4cctv央视",
+      "type": 3,
+      "jar": "https://aoki.codered.cloud/lib/cctv.jar",
+      "api": "csp_CCTV",
+      "searchable": 0,
+      "filterable": 0,
+      "ext": "https://aoki.codered.cloud/lib/央视大全.json"
+    },
+    {
+      "key": "1cctv",
+      "name": "5cctv大全",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://aoki.codered.cloud/lib/cctv.py"
+    },
+{"key":"南瓜","name":"1南瓜┃App","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
+    {"key":"天天","name":"2天天┃App","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn"},
+    {"key":"热播","name":"3热播┃App","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn"},
+    {"key":"追剧","name":"4追剧┃App","type":3,"api":"csp_TTian","playerType":2,"ext":"http://app.kzjtv.com"},
+
+{"key":"drpy_js_360影视","name":"1官源 | 360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
+{"key":"drpy_js_奇珍异兽","name":"2官源 | 爱奇艺[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
+{"key":"drpy_js_优酷","name":"3官源 | 优酷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
+{"key":"drpy_js_腾云驾雾","name":"4官源 | 腾讯[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"5官源 | 芒果[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/百忙无果.js"},
+{"key":"drpy_js_菜狗","name":"6官源 | 搜狗[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "key": "py_cctv",
       "name": "CCTV转播",
