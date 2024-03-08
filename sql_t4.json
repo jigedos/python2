@@ -22,6 +22,159 @@
       "quickSearch": 0,
       "filterable": 1
     },
+
+       {
+      "key": "csp_Bili_Meinvw",
+      "name": "😍┃扭团┃美女",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+
+      "ext": "./json/meinv.json"
+    },
+    {
+      "key": "csp_Bili_Nvtuan",
+      "name": "😍┃妞妞┃美女",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+
+      "ext": "./json/nvtuan.json"
+    },
+    {
+      "key": "短视频",
+      "name": "😍┃短视┃美女",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+
+      "ext": "./json/短视频聚合.json"
+    },
+    {
+      "key": "csp_酷奇",
+      "name": "🎻┃酷奇┃音乐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+
+      "ext": "./json/酷奇MV.json"
+    },
+    {
+      "key": "MV_vod",
+      "name": "🎻┃咯咯┃音乐",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Bili_MTV",
+      "name": "🎻┃哔哩┃音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+
+      "ext": "./json/mtv.json"
+    },
+    {
+      "key": "csp_Bili_Yinl2",
+      "name": "🎻┃音悦┃音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+
+      "ext": "./json/yinyue.json"
+    },
+    {
+      "key": "MV_vod",
+      "name": "🎻┃明星┃音乐",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "style": {
+        "type": "oval"
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_Bili_dashan",
+      "name": "💋┃搭讪┃教程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+
+      "ext": "./json/搭讪.json"
+    },
+    {
+      "key": "csp_Bili__dapei",
+      "name": "💋┃搭配┃教程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+
+      "ext": "./json/搭配.json"
+    },
+
+    {
+      "key": "Bili",
+      "name": "🅱️┃哔哔┃戏曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "./json/bili.json"
+    },
+    {
+      "key": "csp_Bili",
+      "name": "🅱️┃哔哩┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+
+      "ext": "./json/bili.json"
+    },
+    {
+      "key": "csp_Bili_zyy",
+      "name": "🅱️┃中医┃药区",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+
+      "ext": "./json/zyy.json"
+    },
+    {
+      "key": "csp_Bili_xuqu1",
+      "name": "🅱️┃戏曲┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+
+      "ext": "./json/xiqu.json"
+    },
     {
       "key": "py_cctv",
       "name": "CCTV转播",
@@ -79,28 +232,28 @@
       "key": "drpy_js_奇珍异兽",
       "name": "🚩爱奇艺",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/drpy2.min.js",
       "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "🚩腾讯",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/drpy2.min.js",
       "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "🚩芒果",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/drpy2.min.js",
       "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/百忙无果.js"
     },
     {
       "key": "QTV",
       "name": "🚩腾讯4K",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/drpy2.min.js",
       "ext": "./js/txvip.js"
     },
     {
@@ -136,7 +289,7 @@
       "key": "drpy_js_360影视",
       "name": "🚩360",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./json/drpy2.min.js",
       "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/360影视.js"
     },
     {
@@ -328,7 +481,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/小灯塔百科.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/json/小灯塔百科.json"
     },
     {
       "key": "小灯塔科学",
@@ -339,7 +492,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/小灯塔科学.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/json/小灯塔科学.json"
     },
     {
       "key": "小灯塔地理",
@@ -350,7 +503,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/小灯塔地理.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/json/小灯塔地理.json"
     },
     {
       "key": "小灯塔国学",
@@ -361,7 +514,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/小灯塔国学.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/json/小灯塔国学.json"
     },
     {
       "key": "小灯塔人文",
@@ -372,7 +525,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/小灯塔人文.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/json/小灯塔人文.json"
     },
     {
       "key": "儿童拼音",
@@ -383,7 +536,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童拼音.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/json/儿童拼音.json"
     },
     {
       "key": "儿童识字",
@@ -394,7 +547,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童识字.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/json/儿童识字.json"
     },
     {
       "key": "儿童英语",
@@ -405,7 +558,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童英语.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/json/儿童英语.json"
     },
     {
       "key": "儿童硬笔",
@@ -416,7 +569,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童硬笔.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/json/儿童硬笔.json"
     },
     {
       "key": "儿童思维",
@@ -427,7 +580,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童思维.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/json/儿童思维.json"
     },
     {
       "key": "儿童口才",
@@ -438,7 +591,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童口才.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/json/儿童口才.json"
     },
     {
       "key": "儿童编程",
@@ -449,7 +602,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童编程.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/json/儿童编程.json"
     },
     {
       "key": "儿童武术",
@@ -460,7 +613,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童武术.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/json/儿童武术.json"
     },
     {
       "key": "兴趣培养",
@@ -471,7 +624,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://download.kstore.space/download/4077/教育/jiaoyu.jar",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/兴趣培养.json"
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/json/兴趣培养.json"
     },
     {
       "key": "csp_Bili幼儿",
@@ -665,7 +818,7 @@
       "key": "drpy_js_低端影视",
       "name": "🔅🎞️低端影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/json/drpy2.min.js",
       "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/低端影视.js"
     },
     {
@@ -1077,7 +1230,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "./jar/jar.php",
-      "ext": "./lib/农民影视.json"
+      "ext": "./json/农民影视.json"
     },
     {
       "key": "不鑫影院",
@@ -1092,8 +1245,8 @@
       "key": "drpy_js_哔哩影视",
       "name": "🎥哔哩",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/哔哩影视.js"
+      "api": "./json/drpy2.min.js",
+      "ext": "./json/哔哩影视.js"
     },
     {
       "key": "小城小城",
@@ -1682,7 +1835,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/哔哩戏曲.json"
+      "ext": "./json/哔哩戏曲.json"
     },
     {
       "key": "csp_短剧",
