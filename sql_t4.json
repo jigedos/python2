@@ -22,8 +22,7 @@
       "quickSearch": 0,
       "filterable": 1
     },
-
-       {
+    {
       "key": "csp_Bili_Meinvw",
       "name": "1😍B站美女",
       "type": 3,
@@ -56,8 +55,7 @@
       "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/短视频聚合.json"
     },
-  
-     {
+    {
       "key": "csp_Bili_Yinl2",
       "name": "4🎻┃音悦┃音乐",
       "type": 3,
@@ -68,7 +66,6 @@
       "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/yinyue.json"
     },
-  
     {
       "key": "csp_Bili_dashan",
       "name": "5💋┃搭讪┃教程",
@@ -91,7 +88,6 @@
       "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/搭配.json"
     },
- 
     {
       "key": "csp_Bili_zyy",
       "name": "7🅱️┃中医┃药区",
@@ -114,8 +110,7 @@
       "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/xiqu.json"
     },
-
-       {
+    {
       "key": "drpy_js_蜻蜓FM",
       "name": "1FM┃蜻蜓",
       "type": 3,
@@ -123,7 +118,6 @@
       "changeable": 0,
       "ext": "https://aoki.codered.cloud/lib/蜻蜓FM.js"
     },
-  
     {
       "key": "m1905",
       "name": "2cctv电影",
@@ -154,13 +148,53 @@
       "filterable": 1,
       "ext": "https://aoki.codered.cloud/lib/cctv.py"
     },
-{"key":"南瓜","name":"1南瓜┃App","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
-{"key":"drpy_js_酷6网","name":"1聚合 | 酷6网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷6网.js"},
-{"key":"drpy_js_网易公版影像","name":"2聚合 | 网易公版影像[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/网易公版影像.js"},
-{"key":"drpy_js_A8音乐","name":"3MV | A8音乐[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/A8音乐.js"},
-{"key":"drpy_js_酷狗MV","name":"4MV | 酷狗[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷狗MV.js"},
-{"key":"drpy_js_音悦网","name":"5MV | 音悦网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/音悦网.js"},
-    		    {
+    {
+      "key": "南瓜",
+      "name": "1南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpy_js_酷6网",
+      "name": "1聚合 | 酷6网[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/酷6网.js"
+    },
+    {
+      "key": "drpy_js_网易公版影像",
+      "name": "2聚合 | 网易公版影像[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/网易公版影像.js"
+    },
+    {
+      "key": "drpy_js_A8音乐",
+      "name": "3MV | A8音乐[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/A8音乐.js"
+    },
+    {
+      "key": "drpy_js_酷狗MV",
+      "name": "4MV | 酷狗[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/酷狗MV.js"
+    },
+    {
+      "key": "drpy_js_音悦网",
+      "name": "5MV | 音悦网[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/音悦网.js"
+    },
+    {
       "key": "Biliych",
       "name": "6热门歌曲大全",
       "type": 3,
@@ -174,21 +208,42 @@
       "changeable": 0,
       "ext": "./json/biliych.json"
     },
-
-{"key":"csp_南瓜",
-  "name":"🅱️南瓜影视|T追剧",
-  "type":3,
-  "api":"csp_AppHccxNg",
-  "searchable":1,
-  "quickSearch":1,
-  "playerType":2,
-  "filterable":1,
-  "ext":"http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"},
-
-{"key":"csp_农民","name":"🅱️农民影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/农民影视.json"},
- {"key":"厂长","name":"🎦厂长┃2K","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bo.czys.me"},
-
-
+    {
+      "key": "csp_南瓜",
+      "name": "🅱️南瓜影视|T追剧",
+      "type": 3,
+      "api": "csp_AppHccxNg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "http://ys.changmengyun.com/api.php/provide/@@荷城茶秀",
+          "jar": "./jar/HeChengChaXiu.jar"
+    },
+    {
+      "key": "csp_农民",
+      "name": "🅱️农民影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/农民影视.json"
+    },
+    {
+      "key": "厂长",
+      "name": "🎦厂长┃2K",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bo.czys.me",
+       "jar": "./jar/HeChengChaXiu.jar"
+    },
+    {"key":"csp_南瓜","name":"🅱️南瓜影视|T追剧","type":3,"api":"csp_AppHccxNg","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,
+      "ext":"http://ys.changmengyun.com/api.php/provide/@@荷城茶秀","jar": "./jar/HeChengChaXiu.jar"},
 
 
     
@@ -2363,14 +2418,104 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
-    {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-{"name":"精准1","type":0,"url":"https://www.8090.la/api/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://www.xyflv.cc/"}}},
- {"name":"精准2","type":0,"url":"https://www.pangujiexi.com/jiexi/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
- {"name":"精准3","type":0,"url":"https://www.pangujiexi.com/pangu/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}},
-  {"name":"精准5","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
-{"name":"精准6","type":0,"url":"https://www.kkvip2022.com/vip/jiexi1/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
- {"name":"精准8","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
- {"name":"精准9","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
+    {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "精准1",
+      "type": 0,
+      "url": "https://www.8090.la/api/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+          "referer": "https://www.xyflv.cc/"
+        }
+      }
+    },
+    {
+      "name": "精准2",
+      "type": 0,
+      "url": "https://www.pangujiexi.com/jiexi/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "精准3",
+      "type": 0,
+      "url": "https://www.pangujiexi.com/pangu/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "ext": {
+          "header": {
+            "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+          }
+        }
+      }
+    },
+    {
+      "name": "精准5",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "精准6",
+      "type": 0,
+      "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "精准8",
+      "type": 0,
+      "url": "https://jx.quankan.app/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "精准9",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+          "referer": "https://jiejie.uk/"
+        }
+      }
+    },
     {
       "name": "非凡X解析",
       "type": 1,
