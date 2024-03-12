@@ -22,75 +22,7 @@
       "quickSearch": 0,
       "filterable": 1
     },
-    {
-      "key": "csp_Bili_Meinvw",
-      "name": "1😍B站美女",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./json/meinv.json"
-    },
   
-    {
-      "key": "短视频",
-      "name": "3😍短视频",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./json/短视频聚合.json"
-    },
-   
-    {
-      "key": "csp_Bili_dashan",
-      "name": "5💋┃搭讪┃教程",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./json/搭讪.json"
-    },
-    {
-      "key": "csp_Bili__dapei",
-      "name": "6💋┃搭配┃教程",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./json/搭配.json"
-    },
-    {
-      "key": "csp_Bili_zyy",
-      "name": "7🅱️┃中医┃药区",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./json/zyy.json"
-    },
-    {
-      "key": "csp_Bili_xuqu1",
-      "name": "8🅱️┃戏曲┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./json/xiqu.json"
-    },
-    {
       "key": "drpy_js_蜻蜓FM",
       "name": "1FM┃蜻蜓",
       "type": 3,
@@ -139,34 +71,8 @@
       "filterable": 1,
       "ext": ""
     },
-    {
-      "key": "drpy_js_酷6网",
-      "name": "1聚合 | 酷6网[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/酷6网.js"
-    },
-    {
-      "key": "drpy_js_网易公版影像",
-      "name": "2聚合 | 网易公版影像[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/网易公版影像.js"
-    },
-    {
-      "key": "drpy_js_A8音乐",
-      "name": "3MV | A8音乐[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/A8音乐.js"
-    },
-    {
-      "key": "drpy_js_酷狗MV",
-      "name": "4MV | 酷狗[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/酷狗MV.jsd"
-    },
+   
+  
     {
       "key": "drpy_js_音悦网",
       "name": "5MV | 音悦网[js]",
@@ -174,20 +80,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/音悦网.jsd"
     },
-    {
-      "key": "Biliych",
-      "name": "6热门歌曲大全",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./json/biliych.json"
-    },
+   
     {
       "key": "csp_南瓜",
       "name": "🅱️南瓜影视|T追剧",
