@@ -15,7 +15,7 @@
   "sites": [
     {
       "key": "csp_DouDou",
-      "name": "🔍更新：24.3.3",
+      "name": "🔍更新：24.3.12",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -25,6 +25,65 @@
 
     {"key": "csp_Bili1","name": "🅱️哔哩合集1","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "./json/哔哩合集.json"},
 {"key": "csp_Bili2","name": "🅱️哔哩合集2","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "./json/哔哩合集2.json"},
+      {
+      "key": "csp_Bili_Meinvw",
+      "name": "1😍B站美女",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "./json/meinv.json"
+    },
+  
+  
+   
+    {
+      "key": "csp_Bili_dashan",
+      "name": "5🅱️搭讪教程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "./json/搭讪.json"
+    },
+    {
+      "key": "csp_Bili__dapei",
+      "name": "6🅱️搭配教程",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "./json/搭配.json"
+    },
+    {
+      "key": "csp_Bili_zyy",
+      "name": "7🅱️中医药区",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "./json/zyy.json"
+    },
+    {
+      "key": "csp_Bili_xuqu1",
+      "name": "8🅱️戏曲合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "./json/xiqu.json"
+    },
+    {
 {"key": "软件","name": " 🖤软件教程","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "./json/软件教程.json"},
 {"key": "歌舞","name": "💃印度歌舞","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/印度歌舞.json"},
 {"key": "小姐姐","name": "💃哔哩小姐姐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/哔哩xjj.json"},
@@ -39,7 +98,7 @@
 {"key": "棋牌","name": " 💔棋牌合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/哔哩棋牌.json"},
 {"key": "UP主","name": " 🖤UP主机","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "./json/哔哩UP主.json"},
 {"key": "PS","name": "🎉PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/哔哩PS.json"},
-{"key": "外语","name": "🏠外语学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "./json/哔哩外语.json"},
+{"key": "外语","name": "🏠外语学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "./json/哔哩外语.json"}，
 {"key": "学堂","name": "🍉学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "./json/哔哩学堂.json"},
 {"key": "EXCEL","name": "🏢Excel学堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/哔哩Excel教程.json"},
 {"key": "足球","name": "⚽️足球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/哔哩球星.json"},
