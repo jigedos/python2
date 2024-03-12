@@ -73,39 +73,7 @@
       "filterable": 0,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zb.json"
     },
-    {
-      "key": "MV大全",
-      "name": "💽MV大全",
-      "type": 4,
-      "api": "http://120.53.102.254/dsp/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-         {
-            "key":"MTV合集",
-            "name":"💽MTV合集",
-            "type":1,
-            "api":"https://tvbox-mv-xianlaihuyu.koyeb.app/mv/vod",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "changeable":0
-        },
-    {
-      "key": "drpy_js_酷狗MV",
-      "name": "💽酷狗音乐",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷狗MV.js"
-    },
-    {
-      "key": "drpy_js_酷奇MV",
-      "name": "💽酷奇音乐",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷奇MV.js"
-    },
+  
     {
       "key": "drpy_js_奇珍异兽",
       "name": "🚩爱奇艺",
@@ -180,6 +148,20 @@
       "quickSearch": 1,
       "searchable": 1
  },
+     {
+      "key": "drpy_js_酷6网",
+      "name": "🚩 酷6网",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/酷6网.js"
+    },
+    {
+      "key": "drpy_js_网易公版影像",
+      "name": "🚩 网易公版影像",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/网易公版影像.js"
+    },
       {
       "key": "哔嘀",
       "name": "💕🎞️哔嘀",
