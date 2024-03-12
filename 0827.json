@@ -22,26 +22,7 @@
       "quickSearch": 0,
       "filterable": 1
     },
-    {
-      "key": "py_cctv",
-      "name": "CCTV转播",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./py/py_cctv_1.py"
-    },
-    {
-      "key": "直播转点播",
-      "name": "📺︎┃电视┃点播",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zbzdb.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zb.json"
-    },
+
     {
       "key": "MV大全",
       "name": "💽MV大全",
@@ -72,21 +53,21 @@
     },
     {
       "key": "drpy_js_酷狗MV",
-      "name": "💽酷狗音乐",
+      "name": "🎷酷狗音乐",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷狗MV.js"
     },
     {
       "key": "drpy_js_酷奇MV",
-      "name": "💽酷奇音乐",
+      "name": "🎸酷奇音乐",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷奇MV.js"
     },
     {
       "key": "MTV",
-      "name": "💽明星MV",
+      "name": "🎺明星MV",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -98,9 +79,30 @@
       "changeable": 0,
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/MTV.json"
     },
+      {
+      "key": "drpy_js_A8音乐",
+      "name": "🎻A8音乐",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/A8音乐.js"
+    },
+ {
+      "key": "Biliych",
+      "name": "💽热门歌曲大全",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./json/biliych.json"
+    },
     {
       "key": "哔哩音乐",
-      "name": "💽哔哩音乐",
+      "name": "🥁哔哩音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -110,7 +112,7 @@
     },
     {
       "key": "直播转点播2",
-      "name": "💽歌曲大全 ",
+      "name": "🪗歌曲大全 ",
       "type": 4,
       "style": {
         "type": "rect",
@@ -121,6 +123,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+     {
+      "key": "csp_Bili_Yinl2",
+      "name": "🎼音悦台",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "./json/yinyue.json"
     },
     {
       "key": "吾爱演唱会",
@@ -141,6 +154,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/哔哩戏曲.json"
+    },
+      {
+      "key": "csp_Bili_Nvtuan",
+      "name": "😍女团音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "./json/nvtuan.json"
     },
     {
       "key": "meowtv_blhj",
