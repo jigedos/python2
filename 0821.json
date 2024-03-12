@@ -24,7 +24,7 @@
     },
     {
       "key": "py_cctv",
-      "name": "CCTV转播",
+      "name": "🇨🇳CCTV转播",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -32,17 +32,16 @@
       "filterable": 0,
       "ext": "./py/py_cctv_1.py"
     },
-      {
+    {
       "key": "央视经典",
-      "name": "💫CCTV┃经典",
+      "name": "🇨🇳CCTV┃经典",
       "type": 3,
       "api": "csp_Bili",
-       "searchable": 0,
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/json_哔哩经典.json"
     },
-  
     {
       "key": "py_cctv1",
       "name": "🇨🇳CCTV┃PY",
@@ -63,7 +62,7 @@
       "filterable": 1,
       "ext": "./json/json_py2.json"
     },
-        {
+    {
       "key": "直播转点播",
       "name": "📺︎直播APP",
       "type": 3,
@@ -72,8 +71,8 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zb.json"
-    }
-            {
+    },
+    {
       "key": "直播转点播",
       "name": "📺︎国剧",
       "type": 3,
@@ -82,8 +81,8 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zb2.json"
-    }
-                {
+    },
+    {
       "key": "直播转点播",
       "name": "📺︎外剧",
       "type": 3,
@@ -92,7 +91,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zb3.json"
-    }
+    },
     {
       "key": "直播转点播",
       "name": "📺︎MP4",
@@ -180,22 +179,21 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
-          {
-            "name": "解析A",
-            "type": 0,
-            "url": "https://jx.m3u8.pw/?url="
-        },
- {
-            "name": "解析B",
-            "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
-        },
-     {
-            "name": "解析C",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        },
-
+    {
+      "name": "解析A",
+      "type": 0,
+      "url": "https://jx.m3u8.pw/?url="
+    },
+    {
+      "name": "解析B",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "解析C",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
     {
       "name": "非凡X解析",
       "type": 1,
