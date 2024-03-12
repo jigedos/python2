@@ -15,7 +15,7 @@
   "sites": [
     {
       "key": "csp_DouDou",
-      "name": "🔍更新：24.3.3",
+      "name": "🔍更新：24.3.12",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -33,17 +33,7 @@
       "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/meinv.json"
     },
-    {
-      "key": "csp_Bili_Nvtuan",
-      "name": "2😍女团音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./json/nvtuan.json"
-    },
+  
     {
       "key": "短视频",
       "name": "3😍短视频",
@@ -55,17 +45,7 @@
       "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/短视频聚合.json"
     },
-    {
-      "key": "csp_Bili_Yinl2",
-      "name": "4🎻┃音悦┃音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./json/yinyue.json"
-    },
+   
     {
       "key": "csp_Bili_dashan",
       "name": "5💋┃搭讪┃教程",
