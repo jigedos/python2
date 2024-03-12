@@ -63,7 +63,7 @@
       "ext": "./json/json_py2.json"
     },
     {
-      "key": "直播转点播",
+      "key": "直播",
       "name": "📺︎直播APP",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zbzdb.js",
@@ -73,7 +73,7 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zb.json"
     },
     {
-      "key": "直播转点播",
+      "key": "直播2",
       "name": "📺︎国剧",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zbzdb.js",
@@ -83,7 +83,7 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zb2.json"
     },
     {
-      "key": "直播转点播",
+      "key": "直播3",
       "name": "📺︎外剧",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zbzdb.js",
@@ -93,7 +93,7 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zb3.json"
     },
     {
-      "key": "直播转点播",
+      "key": "直播1",
       "name": "📺︎MP4",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zbzdb.js",
