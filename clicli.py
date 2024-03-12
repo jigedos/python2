@@ -42,15 +42,7 @@
       "filterable": 1,
       "ext": "./json/json_哔哩经典.json"
     },
-    {
-      "key": "cctv",
-      "name": "💫CCTV｜大全",
-      "type": 3,
-      "api": "csp_CCTV",
-      "searchable": 0,
-      "filterable": 0,
-      "ext": "./json/json_央视大全.json"
-    },
+  
     {
       "key": "py_cctv1",
       "name": "🇨🇳CCTV┃PY",
@@ -1417,6 +1409,22 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
+          {
+            "name": "解析A",
+            "type": 0,
+            "url": "https://jx.m3u8.pw/?url="
+        },
+ {
+            "name": "解析B",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        },
+     {
+            "name": "解析C",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+
     {
       "name": "非凡X解析",
       "type": 1,
