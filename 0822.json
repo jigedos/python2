@@ -24,7 +24,7 @@
     },
        {
       "key": "csp_DouDou",
-      "name": "🔍更新：24.3.3",
+      "name": "🔍更新：24.3.12",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -44,7 +44,17 @@
       "filterable": 1,
       "ext": "http://122.228.84.103:6822/api.php/app/"
     },
-   
+     {
+      "key": "短视频",
+      "name": "😍短视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "./json/短视频聚合.json"
+    },
     {
       "key": "世界",
       "name": "🔅🎞️短剧",
