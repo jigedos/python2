@@ -162,6 +162,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/网易公版影像.js"
     },
+    {"key": "益达影视","name": "🎦美益达","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://myd666.tv/lvdou_api.php/v1.vod"},	
       {
       "key": "哔嘀",
       "name": "💕🎞️哔嘀",
