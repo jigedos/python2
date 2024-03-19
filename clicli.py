@@ -15,7 +15,7 @@
   "sites": [
     {
       "key": "csp_DouDou",
-      "name": "🔍更新：24.3.12",
+      "name": "🔍更新：24.3.19",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
