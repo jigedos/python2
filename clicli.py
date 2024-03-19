@@ -112,15 +112,7 @@
       "filterable": 1,
       "ext": "http://cdn.teyonds.com/js/优酷视频.js"
     },
-    {
-      "key": "sohu",
-      "name": "🚩搜狐视频",
-      "type": 1,
-      "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playUrl": "parse:并发"
-    },
+  
     {
       "key": "meowtv_sgys",
       "name": "🚩搜狗视频",
@@ -213,16 +205,7 @@
       "filterable": 1,
       "ext": "./json/五月影视.json"
     },
-    {
-      "key": "csp_米爱",
-      "name": "💕🎞️米爱",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/米爱影视.json"
-    },
+
    
     {
       "key": "宅腐APP",
@@ -236,7 +219,6 @@
     },
          {"key": "csp_XYQHiker_量子影视","name":"🔅🎞️量子影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/XYQHiker/量子影视.json"},
         {"key": "csp_XYQHiker_555影视","name":"🔅🎞️555影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/XYQHiker/555影视.json"},
-        {"key": "csp_XYQHiker_秋霞电影","name":"🔅🎞️秋霞电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/XYQHiker/秋霞电影.json"},
         {"key": "csp_XYQHiker_影视工场","name":"🔅🎞️影视工场","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/XYQHiker/影视工场.json"},
         {"key": "csp_XYQHiker_电影盒子","name":"🔅🎞️电影盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/XYQHiker/电影盒子.json"},
         {"key": "csp_XYQHiker_子子影视","name":"🔅🎞️子子影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/XYQHiker/子子影视.json"},
