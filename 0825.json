@@ -15,7 +15,7 @@
   "sites": [
     {
       "key": "csp_DouDou",
-      "name": "🔍更新：24.3.3",
+      "name": "🔍更新：24.04.01",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -25,6 +25,16 @@
    {
       "key": "直播",
       "name": "📺︎少儿动画",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zbzdb.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/geekcomputers/main/900/ser.txt"
+    },
+      {
+      "key": "直播2",
+      "name": "📺︎国剧",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zbzdb.js",
       "searchable": 1,
