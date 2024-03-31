@@ -73,7 +73,12 @@
       "filterable": 0,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zb.json"
     },
-  
+  {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js","searchable": 1,"quickSearch": 1,"changeable":0},
+{"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"原创","name":"☀原创┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"苹果","name":"🍎苹果┃无广","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"白嫖","name":"👻白飘┃无广","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.baipiaoys.com:9092/"},
+{"key":"厂长","name":"📔厂长┃无广","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy77.com/"},
     {
       "key": "drpy_js_奇珍异兽",
       "name": "🚩爱奇艺",
