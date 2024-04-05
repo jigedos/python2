@@ -22,6 +22,151 @@
       "quickSearch": 0,
       "filterable": 1
     },
+      {
+            "key": "AList",
+            "name": "非凡网盘",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "recordable": 0,
+            "ext": {
+                "drives": [
+    
+                    {
+                        "name": "🌱星梦",
+                        "server": "https://pan.bashroot.top"
+                    },
+                    {
+                        "name": "🌱弱水分享",
+                        "server": "http://shicheng.wang:555/"
+                    },
+                 
+                    {
+                        "name": "🌱小陈",
+                        "server": "https://pan.oldming.top/"
+                    },
+                   
+                    {
+                        "name": "🌱X影院",
+                        "server": "http://124.70.202.159:5678/"
+                    },
+                  
+                    {
+                        "name": "🌱神族九帝",
+                        "server": "https://alist.shenzjd.com"
+                    },
+                   
+                    {
+                        "name": "🌱共享盘",
+                        "server": "https://pan.oldming.top/"
+                    },
+                  
+                    {
+                        "name": "9T",
+                        "server": "https://drive.9t.ee",
+                        "params": [
+                            {
+                                "path": "/OneDrive",
+                                "pass": "dooglu"
+                            },
+                            {
+                                "path": "/115Cloud",
+                                "pass": "dooglu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+     {"key": "dr_码上看369",
+"name": "🐉┃369秒播┃", 
+"type": 3,
+"api": "./js/merge.min.js",
+"searchable": 1, "playerType": 2,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "./lib/369影视.js"
+    },
+                {
+      "key": "drpy_js_网飞.TV",
+      "name": "🐉┃网飞影视┃",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/网飞.TV.js"
+    },
+    {
+"key": "dr_码上看尘落",
+"name": "🐉┃落尘秒播┃",
+"type": 3,
+"api": "./js/merge.min.js",
+"searchable": 1, "playerType": 2, 
+"quickSearch": 0,
+"filterable": 1,
+"ext": "./js/尘落影视.js"
+},
+{
+"key": "dr_码上看NY",
+"name": "🐉┃南亚影视┃",
+"type": 3
+, "api": "./js/merge.min.js",
+"searchable": 1,
+"playerType": 2,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "./js/NY影院.js"
+},
+       {
+      "key": "csp_Bttoo",
+      "name": "🐉┃比特直连┃",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+{
+      "key": "热播库",
+      "name": "🐉┃热播影视┃",
+      "type": 3,
+      "changeable": 1,
+      "jar": "./jar/rb.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": {
+        "主页url": "https://rebozj.pro",
+        "数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "副标题": "class=\"pic-text text-right\"><b>&&</span>",
+        "搜索模式": "1",
+        "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
+        "搜索url": "https://rebozj.pro/type/id-.html?wd={wd}",
+        "线路数组": "<h4 class=\"title&&/h4>",
+        "线路标题": ">&&<",
+        "播放列表": "<a&&/a>",
+        "播放标题": ">&&<",
+        "影片类型": "类型：&&</p>",
+        "导演": "导演：&&</p>",
+        "主演": "主演：&&</p>",
+        "简介": "display: none;\">&&</span>",
+        "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
+        "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
+        "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
+      }
+    },
+    {
+"key": "dr_码上看大师兄",
+"name": "🐉┃大师兄源┃",
+"type": 3
+, "api": "./lib/merge.min.js",
+"searchable": 1,
+"playerType": 2,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "./js/大师兄.js"
+},
         {
       "key": "厂长",
       "name": "厂长",
