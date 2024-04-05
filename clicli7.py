@@ -79,6 +79,29 @@
                 ]
             }
         },
+        {
+      "key": "Czsapp",
+      "name": "🐉┃厂长秒播┃",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy55.com/",
+        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt"
+    },  
+      {
+      "key": "影探",
+      "name": "🐉┃影探影院┃",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/yt.js"
+    },
+
+
+    
+    
      {"key": "dr_码上看369",
 "name": "N369秒播", 
 "type": 3,
