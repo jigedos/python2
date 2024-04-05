@@ -29,6 +29,7 @@
             "api": "csp_AList",
             "searchable": 1,
             "recordable": 0,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt",
             "ext": {
                 "drives": [
     
@@ -79,7 +80,7 @@
             }
         },
      {"key": "dr_码上看369",
-"name": "🐉┃369秒播┃", 
+"name": "N369秒播", 
 "type": 3,
 "api": "./js/merge.min.js",
 "searchable": 1, "playerType": 2,
@@ -89,14 +90,14 @@
     },
                 {
       "key": "drpy_js_网飞.TV",
-      "name": "🐉┃网飞影视┃",
+      "name": "N网飞影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/网飞.TV.js"
     },
     {
 "key": "dr_码上看尘落",
-"name": "🐉┃落尘秒播┃",
+"name": "N落尘秒播",
 "type": 3,
 "api": "./js/merge.min.js",
 "searchable": 1, "playerType": 2, 
@@ -106,7 +107,7 @@
 },
 {
 "key": "dr_码上看NY",
-"name": "🐉┃南亚影视┃",
+"name": "N国内节点",
 "type": 3
 , "api": "./js/merge.min.js",
 "searchable": 1,
@@ -117,7 +118,7 @@
 },
        {
       "key": "csp_Bttoo",
-      "name": "🐉┃比特直连┃",
+      "name": "N比特直连",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -128,7 +129,7 @@
 
 {
       "key": "热播库",
-      "name": "🐉┃热播影视┃",
+      "name": "N高清线路",
       "type": 3,
       "changeable": 1,
       "jar": "./jar/rb.jar;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -159,7 +160,7 @@
     },
     {
 "key": "dr_码上看大师兄",
-"name": "🐉┃大师兄源┃",
+"name": "N大师兄源",
 "type": 3
 , "api": "./js/merge.min.js",
 "searchable": 1,
