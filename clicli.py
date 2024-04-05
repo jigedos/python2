@@ -22,6 +22,19 @@
       "quickSearch": 0,
       "filterable": 1
     },
+        {
+      "key": "厂长",
+      "name": "厂长",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy77.com/"
+    },
+    
      {
       "key": "火狐",
       "name": "🦊茶杯狐",
