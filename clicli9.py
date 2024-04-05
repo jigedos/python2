@@ -22,6 +22,15 @@
       "quickSearch": 0,
       "filterable": 1
     },
+            {"key": "①暴風","name":"🌊暴風(采集)","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+        {"key": "①iKun","name":"♻️iKun(采集)","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+        {"key": "①淘片","name":"♻️淘片(采集)", "type": 0, "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html","searchable":1,"quickSearch":1},
+        {"key": "①新片预告","name":"🆕新片预告(CC)","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
+
+
+
+
+    
       {
             "key": "AList",
             "name": "非凡网盘",
@@ -52,10 +61,7 @@
                         "server": "http://124.70.202.159:5678/"
                     },
                   
-                    {
-                        "name": "🌱神族九帝",
-                        "server": "https://alist.shenzjd.com"
-                    },
+                 
                    
                     {
                         "name": "🌱共享盘",
