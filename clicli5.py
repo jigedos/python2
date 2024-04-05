@@ -85,7 +85,7 @@
 "searchable": 1, "playerType": 2,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "./lib/369影视.js"
+"ext": "./js/369影视.js"
     },
                 {
       "key": "drpy_js_网飞.TV",
@@ -122,7 +122,8 @@
       "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+         "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt" 
     },
 
 {
@@ -160,62 +161,17 @@
 "key": "dr_码上看大师兄",
 "name": "🐉┃大师兄源┃",
 "type": 3
-, "api": "./lib/merge.min.js",
+, "api": "./js/merge.min.js",
 "searchable": 1,
 "playerType": 2,
 "quickSearch": 1,
 "filterable": 1,
 "ext": "./js/大师兄.js"
 },
-        {
-      "key": "厂长",
-      "name": "厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy77.com/"
-    },
+
             {"key": "csp_XYQHiker_996影视","name":"996影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/996影视.json","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
 
-     {
-      "key": "火狐",
-      "name": "🦊茶杯狐",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "categories": [
-        "内地剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "韩剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "日剧",
-        "马泰剧",
-        "体育赛事",
-        "综艺",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫",
-        "伦理片"
-      ]
-    },
+   
     {
       "key": "py_cctv",
       "name": "CCTV转播",
