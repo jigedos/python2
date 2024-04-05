@@ -5,7 +5,6 @@
       "name": "弱水",
       "server": "http://shicheng.wang:555/"
     },
-  
     {
       "name": "ECVE",
       "server": "https://pan.ecve.cn"
@@ -14,8 +13,6 @@
       "name": "小雅",
       "server": "http://alist.xiaoya.pro"
     },
- 
- 
     {
       "name": "七米藍",
       "server": "https://al.chirmyram.com"
@@ -29,40 +26,38 @@
       "server": "https://zi0.cc"
     },
     {
-                        "name": "🌱星梦",
-                        "server": "https://pan.bashroot.top"
-                    },
-                    {
-                        "name": "🌱弱水分享",
-                        "server": "http://shicheng.wang:555/"
-                    },
-                 
-                    {
-                        "name": "🌱小陈",
-                        "server": "https://pan.oldming.top/"
-                    },
-                   
-                    {
-                        "name": "🌱X影院",
-                        "server": "http://124.70.202.159:5678/"
-                    },
-                   
-                    {
-                        "name": "🌱共享盘",
-                        "server": "https://pan.oldming.top/"
-                    },
-                  
-                    {
-                        "name": "9T",
-                        "server": "https://drive.9t.ee",
-                        "params": [
-                            {
-                                "path": "/OneDrive",
-                                "pass": "dooglu"
-                            },
-                            {
-                                "path": "/115Cloud",
-                                "pass": "dooglu"
-                            }
+      "name": "🌱星梦",
+      "server": "https://pan.bashroot.top"
+    },
+    {
+      "name": "🌱弱水分享",
+      "server": "http://shicheng.wang:555/"
+    },
+    {
+      "name": "🌱小陈",
+      "server": "https://pan.oldming.top/"
+    },
+    {
+      "name": "🌱X影院",
+      "server": "http://124.70.202.159:5678/"
+    },
+    {
+      "name": "🌱共享盘",
+      "server": "https://pan.oldming.top/"
+    },
+    {
+      "name": "9T",
+      "server": "https://drive.9t.ee",
+      "params": [
+        {
+          "path": "/OneDrive",
+          "pass": "dooglu"
+        },
+        {
+          "path": "/115Cloud",
+          "pass": "dooglu"
+        }
+      ]
+    }
   ]
 }
