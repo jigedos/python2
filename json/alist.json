@@ -5,10 +5,7 @@
       "name": "弱水",
       "server": "http://shicheng.wang:555/"
     },
-    {
-      "name": "NICS",
-      "server": "https://nics.eu.org"
-    },
+  
     {
       "name": "ECVE",
       "server": "https://pan.ecve.cn"
@@ -17,14 +14,8 @@
       "name": "小雅",
       "server": "http://alist.xiaoya.pro"
     },
-    {
-      "name": "觸光",
-      "server": "https://pan.ichuguang.com"
-    },
-    {
-      "name": "一只魚",
-      "server": "https://vtok.pp.ua/"
-    },
+ 
+ 
     {
       "name": "七米藍",
       "server": "https://al.chirmyram.com"
@@ -38,20 +29,40 @@
       "server": "https://zi0.cc"
     },
     {
-      "name": "网盘1",
-      "server": "http://223.167.75.227:5678/"
-    },
-    {
-      "name": "网盘2",
-      "server": "http://123.249.94.196:5678/"
-    },
-    {
-      "name": "网盘3",
-      "server": "http://101.204.33.244:5678/"
-    },
-    {
-      "name": "网盘4",
-      "server": "http://175.152.57.102:5678/"
-    }
+                        "name": "🌱星梦",
+                        "server": "https://pan.bashroot.top"
+                    },
+                    {
+                        "name": "🌱弱水分享",
+                        "server": "http://shicheng.wang:555/"
+                    },
+                 
+                    {
+                        "name": "🌱小陈",
+                        "server": "https://pan.oldming.top/"
+                    },
+                   
+                    {
+                        "name": "🌱X影院",
+                        "server": "http://124.70.202.159:5678/"
+                    },
+                   
+                    {
+                        "name": "🌱共享盘",
+                        "server": "https://pan.oldming.top/"
+                    },
+                  
+                    {
+                        "name": "9T",
+                        "server": "https://drive.9t.ee",
+                        "params": [
+                            {
+                                "path": "/OneDrive",
+                                "pass": "dooglu"
+                            },
+                            {
+                                "path": "/115Cloud",
+                                "pass": "dooglu"
+                            }
   ]
 }
