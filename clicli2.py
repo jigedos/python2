@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/nb1202.jar;md5;80e2d5045e8cd48beb132870b4a339e0",
+  "spider": "./jar/czz.jar;md5",
   "wallpaper": "http://xhww.fun:63/img.php",
   "lives": [
     {
