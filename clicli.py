@@ -81,7 +81,7 @@
         },
         {
       "key": "Czsapp",
-      "name": "🐉┃厂长秒播┃",
+      "name": "N厂长秒播",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
