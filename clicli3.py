@@ -34,7 +34,8 @@
       "changeable": 1,
       "ext": "https://www.czzy77.com/"
     },
-    
+            {"key": "csp_XYQHiker_996影视","name":"996影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/996影视.json"},
+
      {
       "key": "火狐",
       "name": "🦊茶杯狐",
