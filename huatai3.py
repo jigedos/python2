@@ -22,6 +22,197 @@
       "quickSearch": 0,
       "filterable": 1
     },
+       {
+      "key": "优酷",
+      "name": "N1优酷资源站",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "categories": ["国产剧","韩剧","日剧","台剧","港剧","欧美剧","泰剧","海外剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片"]
+    },
+    {
+      "key": "索尼",
+      "name": "N2索尼影视站",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["国产剧","欧美剧","港剧","日剧","韩剧","泰剧","科幻片","爱情片","喜剧片","战争片","大陆综艺"]
+   },
+   {
+      "key": "豪华资源",
+      "name": "N3豪华资源站",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": ["内地剧","香港剧","台湾剧","韩剧","日剧","马泰剧","欧美剧","科幻片","爱情片","喜剧片",
+                    "灾难片","记录片","动画片","中国动漫","大陆综艺"]
+    },
+    {
+      "key": "量子",
+      "name": "N4量子资源站",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": ["国产剧","韩国剧","日本剧","台湾剧","香港剧","欧美剧","泰国剧",
+        "海外剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","记录片","大陆综艺"]
+    },
+ 	{
+	  "key": " ikun资源",
+	  "name": "N5爱坤影视",
+	  "type": 1,
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "api": "https://ikunzyapi.com/api.php/provide/vod",
+	  "categories": ["国产剧","香港剧","韩国剧","日本剧","欧美剧","科幻片","爱情片","古装片","喜剧片",
+                      "剧情片","国产动漫", "大陆综艺"]
+    },
+
+    {
+      "key": "AppMr",
+      "name": "N7大明影视",
+      "type": 3,
+      "api": "csp_AppMr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"./jar/yinhe.jar"
+    },
+
+  {
+      "key": "银河",
+      "name": "N8银河资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
+      "ext": "./json/银河资源.json"
+    },
+
+ {
+      "key": "北川",
+      "name": "N9北川影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	"jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
+      "ext": "./json/北川影视.json"
+   },
+ {
+      "key": "热播",
+      "name": "N10热播影视",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "http://v.rbotv.cn",
+      "jar":"./jar/yh.jar"
+    },	  
+ {
+       "key": "骚火",
+       "name": "N11骚火秒播",
+       "type": 3,
+       "api": "csp_XBPQ",
+       "searchable": 1,
+       "quickSearch": 1,
+	  "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
+       "ext": "./json/骚火.json"
+    },
+ {
+      "key": "策驰",
+      "name": "N12策驰影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	 "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
+      "ext": "./json/策驰影视.json"
+    },
+ {
+      "key": "348",
+      "name": "N13348电影网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+	 "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
+      "ext": "./json/348电影.json"
+    },
+    {
+      "key": "柒月",
+      "name": "N14柒月影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+	 "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
+      "ext": "./json/柒月影视.json" 
+    },
+    {
+      "key": "明帝",
+      "name": "N15明帝影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	 "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
+      "ext": "./json/明帝.json"
+    },
+
+ {
+      "key": "csp_Bili",
+      "name": "N16休闲 综合",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	 "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
+      "ext": "./json/bilizh.json"
+    },
+    {
+      "key": "音乐",
+      "name": "N17文艺 综合",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+	 "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
+      "ext": "./json/文艺.json"
+    },
+    {
+      "key": "软件",
+      "name": "N18教程﹠讲座",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+	 "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5"，
+      "ext": "./json/教程.json"
+    },
+    {
+      "key": "健身",
+      "name": "N19养生﹠健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch":0,
+	     "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
+      "ext": "./json/健身.json"
+    },
        {"key": "①暴風","name":"N🌊暴風采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
         {"key": "①iKun","name":"N♻️iKun采集","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
         {"key": "①淘片","name":"N♻️淘片采集", "type": 0, "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html","searchable":1,"quickSearch":1},
