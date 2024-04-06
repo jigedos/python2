@@ -22,9 +22,90 @@
       "quickSearch": 0,
       "filterable": 1
     },
+   {
+      "key": "优酷",
+      "name": "1优酷资源站",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "categories": ["国产剧","韩剧","日剧","台剧","港剧","欧美剧","泰剧","海外剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片"]
+    },
     {
+      "key": "索尼",
+      "name": "2索尼影视站",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["国产剧","欧美剧","港剧","日剧","韩剧","泰剧","科幻片","爱情片","喜剧片","战争片","大陆综艺"]
+   },
+   {
+      "key": "豪华资源",
+      "name": "3豪华资源站",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": ["内地剧","香港剧","台湾剧","韩剧","日剧","马泰剧","欧美剧","科幻片","爱情片","喜剧片",
+                    "灾难片","记录片","动画片","中国动漫","大陆综艺"]
+    },
+    {
+      "key": "量子",
+      "name": "4量子资源站",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": ["国产剧","韩国剧","日本剧","台湾剧","香港剧","欧美剧","泰国剧",
+        "海外剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","记录片","大陆综艺"]
+    },
+ 	{
+	  "key": " ikun资源",
+	  "name": "5爱坤影视",
+	  "type": 1,
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "api": "https://ikunzyapi.com/api.php/provide/vod",
+	  "categories": ["国产剧","香港剧","韩国剧","日本剧","欧美剧","科幻片","爱情片","古装片","喜剧片",
+                      "剧情片","国产动漫", "大陆综艺"]
+    },
+{
+      "key": "csp_Bttwoo",
+      "name": "6比特影院",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AppMr",
+      "name": "7大明影视",
+      "type": 3,
+      "api": "csp_AppMr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"./jar/yinhe.jar"
+    },
+    {
+       "key": "ddys",
+       "name": "8低端影院",
+       "type": 3,
+       "api": "./json/yinhe.js",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+      "ext": "./json/ddys.js"
+    },
+
+ {
       "key": "csp_Bili",
-      "name": "🅱️休闲综合",
+      "name": "🅱休闲综合",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -43,15 +124,39 @@
       "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/文艺.json"
     },
     {
-      "key": "健身",
-      "name": "养生﹠健身",
+      "key": "外语",
+      "name": "外语学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/健身.json"
-    },    
+      "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/外语.json"
+    },
+    {
+      "key": "软件",
+      "name": "📚教程﹠讲座",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/教程.json"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "key": "py_cctv",
       "name": "CCTV转播",
