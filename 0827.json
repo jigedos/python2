@@ -134,7 +134,7 @@
     },
     {
       "key": "csp_Bili_Yinl2",
-      "name": "🎼音悦台",
+      "name": "🎼B站音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -143,6 +143,9 @@
       "jar": "./jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./json/yinyue.json"
     },
+    {"key": "Yinyuetai","name": "🎼音悦台","type": 3,"api": "csp_Yinyuetai","searchable": 1,"changeable": 0,
+    "jar": "./jar/pg1.jar;md5;20951b7b8b4979ec1214839a2b2e36b8"},
+
     {
       "key": "吾爱演唱会",
       "name": "💽演唱会",
