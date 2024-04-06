@@ -80,6 +80,7 @@
       "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
+"spider": "./jar/spider.jar",
       "filterable": 1
     },
     {
@@ -92,16 +93,7 @@
       "changeable": 1,
       "jar":"./jar/yinhe.jar"
     },
-    {
-       "key": "ddys",
-       "name": "8低端影院",
-       "type": 3,
-       "api": "./json/yinhe.js",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-      "ext": "./json/ddys.js"
-    },
+
 
  {
       "key": "csp_Bili",
@@ -111,6 +103,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+	 "spider": "./jar/spider.jar",
       "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/bilizh.json"
     },
     {
@@ -121,6 +114,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
+	    "spider": "./jar/spider.jar",
       "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/文艺.json"
     },
     {
@@ -131,6 +125,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
+	"spider": "./jar/spider.jar",
       "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/外语.json"
     },
     {
@@ -141,6 +136,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
+	    "spider": "./jar/spider.jar",
       "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/教程.json"
     },
 
