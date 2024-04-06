@@ -92,6 +92,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
+	   "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
       "ext": "./json/银河资源.json"
     },
 
@@ -103,6 +104,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+	  "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
       "ext": "./json/北川影视.json"
    },
  {
@@ -121,6 +123,7 @@
        "api": "csp_XBPQ",
        "searchable": 1,
        "quickSearch": 1,
+	  "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
        "ext": "./json/骚火.json"
     },
  {
@@ -131,6 +134,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+	  "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
       "ext": "./json/策驰影视.json"
     },
  {
@@ -140,6 +144,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
+	  "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
       "ext": "./json/348电影.json"
     },
     {
@@ -150,6 +155,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+	     "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
       "ext": "./json/柒月影视.json" 
     },
     {
@@ -160,6 +166,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+	     "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
       "ext": "./json/明帝.json"
     },
 
@@ -171,6 +178,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+	  "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
       "ext": "./json/bilizh.json"
     },
     {
@@ -181,6 +189,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
+	     "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
       "ext": "./json/文艺.json"
     },
     {
@@ -200,6 +209,7 @@
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch":0,
+	     "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
       "ext": "./json/健身.json"
     },
 	  
