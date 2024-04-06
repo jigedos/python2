@@ -73,16 +73,7 @@
 	  "categories": ["国产剧","香港剧","韩国剧","日本剧","欧美剧","科幻片","爱情片","古装片","喜剧片",
                       "剧情片","国产动漫", "大陆综艺"]
     },
-{
-      "key": "csp_Bttwoo",
-      "name": "6比特影院",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-"spider": "./jar/spider.jar",
-      "filterable": 1
-    },
+
     {
       "key": "AppMr",
       "name": "7大明影视",
@@ -94,64 +85,124 @@
       "jar":"./jar/yinhe.jar"
     },
 
+  {
+      "key": "银河",
+      "name": "8银河资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "./json/银河资源.json"
+    },
+
+ {
+      "key": "北川",
+      "name": "9北川影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/北川影视.json"
+   },
+ {
+      "key": "热播",
+      "name": "10热播影视",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "http://v.rbotv.cn",
+      "jar":"./jar/yh.jar"
+    },	  
+ {
+       "key": "骚火",
+       "name": "11骚火秒播",
+       "type": 3,
+       "api": "csp_XBPQ",
+       "searchable": 1,
+       "quickSearch": 1,
+       "ext": "./json/骚火.json"
+    },
+ {
+      "key": "策驰",
+      "name": "12策驰影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/策驰影视.json"
+    },
+ {
+      "key": "348",
+      "name": "13348电影网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "./json/348电影.json"
+    },
+    {
+      "key": "柒月",
+      "name": "14柒月影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/柒月影视.json" 
+    },
+    {
+      "key": "明帝",
+      "name": "15明帝影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/明帝.json"
+    },
 
  {
       "key": "csp_Bili",
-      "name": "🅱休闲综合",
+      "name": "16休闲 综合",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	 "spider": "./jar/spider.jar",
-      "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/bilizh.json"
+      "ext": "./json/bilizh.json"
     },
     {
       "key": "音乐",
-      "name": "🎤文艺综合",
+      "name": "17文艺 综合",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-	    "spider": "./jar/spider.jar",
-      "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/文艺.json"
-    },
-    {
-      "key": "外语",
-      "name": "外语学习",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-	"spider": "./jar/spider.jar",
-      "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/外语.json"
+      "ext": "./json/文艺.json"
     },
     {
       "key": "软件",
-      "name": "📚教程﹠讲座",
+      "name": "18教程﹠讲座",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-	    "spider": "./jar/spider.jar",
-      "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/教程.json"
+      "ext": "./json/教程.json"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
+    {
+      "key": "健身",
+      "name": "19养生﹠健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch":0,
+      "ext": "./json/健身.json"
+    },
+	  
     
     {
       "key": "py_cctv",
