@@ -22,7 +22,36 @@
       "quickSearch": 0,
       "filterable": 1
     },
-        
+    {
+      "key": "csp_Bili",
+      "name": "🅱️休闲综合",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/bilizh.json"
+    },
+    {
+      "key": "音乐",
+      "name": "🎤文艺综合",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/文艺.json"
+    },
+    {
+      "key": "健身",
+      "name": "养生﹠健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/健身.json"
+    },    
     {
       "key": "py_cctv",
       "name": "CCTV转播",
