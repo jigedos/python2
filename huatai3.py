@@ -200,7 +200,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-	 "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5"，
+	 "jar": "./jar/spider.jar;md5;e3851acbf14bafdfda0494ddec995ce5",
       "ext": "./json/教程.json"
     },
     {
