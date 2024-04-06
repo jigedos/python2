@@ -42,6 +42,8 @@
       "filterable": 1,
       "changeable": 0
     },
+    {"key": "Iktv","name": "MV | KTV[jar]","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0},
+
       {
       "key": "小城",
       "name": "💽纯净+K歌",
