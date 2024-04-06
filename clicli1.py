@@ -22,185 +22,57 @@
       "quickSearch": 0,
       "filterable": 1
     },
-            {"key": "①暴風","name":"🌊暴風(采集)","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
-        {"key": "①iKun","name":"♻️iKun(采集)","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-        {"key": "①淘片","name":"♻️淘片(采集)", "type": 0, "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html","searchable":1,"quickSearch":1},
-        {"key": "①新片预告","name":"🆕新片预告(CC)","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
-
-
-
-
-    
-      {
-            "key": "AList",
-            "name": "非凡网盘",
-            "type": 3,
-            "api": "csp_AList",
-            "searchable": 1,
-            "recordable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt",
-            "ext": {
-                "drives": [
-    
-                    {
-                        "name": "🌱星梦",
-                        "server": "https://pan.bashroot.top"
-                    },
-                    {
-                        "name": "🌱弱水分享",
-                        "server": "http://shicheng.wang:555/"
-                    },
-                 
-                    {
-                        "name": "🌱小陈",
-                        "server": "https://pan.oldming.top/"
-                    },
-                   
-                    {
-                        "name": "🌱X影院",
-                        "server": "http://124.70.202.159:5678/"
-                    },
-                  
-                 
-                   
-                    {
-                        "name": "🌱共享盘",
-                        "server": "https://pan.oldming.top/"
-                    },
-                  
-                    {
-                        "name": "9T",
-                        "server": "https://drive.9t.ee",
-                        "params": [
-                            {
-                                "path": "/OneDrive",
-                                "pass": "dooglu"
-                            },
-                            {
-                                "path": "/115Cloud",
-                                "pass": "dooglu"
-                            }
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-      "key": "Czsapp",
-      "name": "N厂长秒播",
+          {
+      "key": "csp_Bili",
+      "name": "🅱️休闲综合",
       "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
+      "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy55.com/",
-        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt"
-    },  
-      {
-      "key": "影探",
-      "name": "🐉┃影探影院┃",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/yt.js"
-    },
-
-
-    
-    
-     {"key": "dr_码上看369",
-"name": "N369秒播", 
-"type": 3,
-"api": "./js/merge.min.js",
-"searchable": 1, "playerType": 2,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "./js/369影视.js"
-    },
-                {
-      "key": "drpy_js_网飞.TV",
-      "name": "N网飞影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/网飞.TV.js"
+      "filterable": 1,
+      "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/bilizh.json"
     },
     {
-"key": "dr_码上看尘落",
-"name": "N落尘秒播",
-"type": 3,
-"api": "./js/merge.min.js",
-"searchable": 1, "playerType": 2, 
-"quickSearch": 0,
-"filterable": 1,
-"ext": "./js/尘落影视.js"
-},
-{
-"key": "dr_码上看NY",
-"name": "N国内节点",
-"type": 3
-, "api": "./js/merge.min.js",
-"searchable": 1,
-"playerType": 2,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "./js/NY影院.js"
-},
-       {
-      "key": "csp_Bttoo",
-      "name": "N比特直连",
+      "key": "音乐",
+      "name": "🎤文艺综合",
       "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-         "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt" 
-    },
-
-{
-      "key": "热播库",
-      "name": "N高清线路",
-      "type": 3,
-      "changeable": 1,
-      "jar": "./jar/rb.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": {
-        "主页url": "https://rebozj.pro",
-        "数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "副标题": "class=\"pic-text text-right\"><b>&&</span>",
-        "搜索模式": "1",
-        "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
-        "搜索url": "https://rebozj.pro/type/id-.html?wd={wd}",
-        "线路数组": "<h4 class=\"title&&/h4>",
-        "线路标题": ">&&<",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "影片类型": "类型：&&</p>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "display: none;\">&&</span>",
-        "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-        "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
-        "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
-      }
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/文艺.json"
     },
     {
-"key": "dr_码上看大师兄",
-"name": "N大师兄源",
-"type": 3
-, "api": "./js/merge.min.js",
-"searchable": 1,
-"playerType": 2,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "./js/大师兄.js"
-},
+      "key": "健身",
+      "name": "养生﹠健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/健身.json"
+    },
 
-            {"key": "csp_XYQHiker_996影视","name":"996影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/996影视.json","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
-
+    {
+      "key": "外语",
+      "name": "外语学习",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/外语.json"
+    },
+    {
+        "key": "教程",
+        "name": "📚软件教程",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 1,
+        "ext":"https://jihulab.com/yinhe/whk/-/raw/main/json/教程.json"
+    },
    
     {
       "key": "py_cctv",
