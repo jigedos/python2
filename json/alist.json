@@ -1,6 +1,28 @@
 {
   "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
   "drives": [
+     {
+"name": "小鸭",
+"server": "http://shicheng.wang:555/",
+"startPage": "/",
+"showAll": false,
+"search": true,
+"params": {
+"/abc": {
+"password": "123"
+},
+"/abc/abc": {
+"password": "123"
+}
+}
+},
+    {
+        "name" : "🙋丫仙女",
+        "server" : "http://alist.xiaoya.pro",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
     {
       "name": "弱水",
       "server": "http://shicheng.wang:555/"
@@ -45,8 +67,22 @@
       "name": "🌱共享盘",
       "server": "https://pan.oldming.top/"
     },
+       {
+        "name" : "☃️姬路白雪",
+        "server" : "https://pan.jlbx.xyz",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "✨星梦",
+        "server" : "https://pan.bashroot.top",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
     {
-      "name": "9T",
+      "name": "🌊9T",
       "server": "https://drive.9t.ee",
       "params": [
         {
