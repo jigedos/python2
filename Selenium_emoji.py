@@ -176,6 +176,12 @@
       "type": 1,
       "api": "https://www.911ysw.top/tianyi.php/provide/vod/"
     },
+	{
+                "key": "maiyoux",
+                "name": "maiyoux",
+                "type": 3,
+                "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/merc-firm-moon/master/maiyoux_open.js"
+            },  
     {"key": "博天堂","name": "任天堂","type": 0,"api": "http://bttcj.com/inc/sapi.php","searchable": 1,"quickSearch": 1,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/jar/18.jar"},
 {"key": "老鸭资源","name": "DUCK鸭","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list","playUrl": "https://player.77lehuo.com/aliplayer/?url=","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"KK写真资源","name":"KK写真","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
