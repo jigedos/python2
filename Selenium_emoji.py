@@ -17,7 +17,7 @@
   "sites": [
     {
       "key": "csp_非凡",
-      "name": "公众号：非凡小小240205",
+      "name": "非凡资源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -176,10 +176,8 @@
       "type": 1,
       "api": "https://www.911ysw.top/tianyi.php/provide/vod/"
     },
-    {"key":"飞速资源","name":"飞速资源","api":"https://www.feisuzyapi.com/api.php/provide/vod/","group":"默认","status":true,"type":1,"id":60,"search":1,"playUrl":"","isActive":true,"resource":52050},
     {"key": "博天堂","name": "任天堂","type": 0,"api": "http://bttcj.com/inc/sapi.php","searchable": 1,"quickSearch": 1,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/jar/18.jar"},
 {"key": "老鸭资源","name": "DUCK鸭","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list","playUrl": "https://player.77lehuo.com/aliplayer/?url=","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"环亚资源","name":"寰亚影视","type":0,"api": "http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KK写真资源","name":"KK写真","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子","name":"量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
 {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
