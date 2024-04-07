@@ -32,7 +32,7 @@
 {"key":"drpy_js_影视工场","name":"🍒影视工场[短]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影视工场.js"},
         {
       "key": "横版影院",
-      "name": "短剧影院",
+      "name": "🍒短剧影院",
       "type": 1,
       "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
       "searchable": 1,
