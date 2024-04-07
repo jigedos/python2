@@ -30,6 +30,18 @@
 {"key":"drpy_js_爱看影院","name":"🍒爱看影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看影院.js"},
 {"key":"drpy_js_小白菜电影","name":"🍒小白菜[短]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小白菜电影.js"},
 {"key":"drpy_js_影视工场","name":"🍒影视工场[短]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影视工场.js"},
+        {
+      "key": "横版影院",
+      "name": "短剧影院",
+      "type": 1,
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧"
+      ]
+    },
 {"key":"drpy_js_影视之家[V2]","name":"🍒影视之家","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影视之家[V2].js"},
 {"key":"drpy_js_奈飞狗[V2]","name":"🍒奈飞狗","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奈飞狗[V2].js"},
 {"key":"drpy_js_xb6v","name":"🍒新版6v","type":3,"api":"./lib/drpy2.min.js","ext":"./js/xb6v.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
