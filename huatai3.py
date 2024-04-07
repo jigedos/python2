@@ -15,7 +15,7 @@
   "sites": [
     {
       "key": "csp_DouDou",
-      "name": "🔍更新：24.04.05",
+      "name": "🔍更新：24.04.07",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -24,12 +24,12 @@
     },
     {"key":"Moli","name":"🍒高清线路5","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./json/moli.json","jar": "./jar/pg1.jar;md5;20951b7b8b4979ec1214839a2b2e36b8"},
 {"key":"4KHDR","name":"🍒4KHDR","type":3,"api":"csp_FourKHDR","ext":"http://127.0.0.1:9978/file/TV/token.json$$$http://127.0.0.1:9978/file/TV/4khdr.txt","quickSearch":1,"changeable":1,"timeout":60,"jar": "./jar/pg1.jar;md5;20951b7b8b4979ec1214839a2b2e36b8"},
-{"key":"Panta","name":"🍒盘Ta","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.91panta.cn/$$$null$$$1","jar": "./jar/pg1.jar;md5;20951b7b8b4979ec1214839a2b2e36b8"},
-{"key":"drpy_js_18哈","name":"🍒18哈","type":3,"api":"./lib/drpy2.min.js","ext":"./js/18哈.js"},
+{"key":"Panta","name":"🍒预览画质[短]","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.91panta.cn/$$$null$$$1","jar": "./jar/pg1.jar;md5;20951b7b8b4979ec1214839a2b2e36b8"},
+{"key":"drpy_js_18哈","name":"🍒18哈[短]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/18哈.js"},
 {"key":"drpy_js_567电影院","name":"🍒567电影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/567电影院.js"},
 {"key":"drpy_js_爱看影院","name":"🍒爱看影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看影院.js"},
-{"key":"drpy_js_小白菜电影","name":"🍒小白菜电影[D]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小白菜电影.js"},
-{"key":"drpy_js_影视工场","name":"🍒影视工场[D]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影视工场.js"},
+{"key":"drpy_js_小白菜电影","name":"🍒小白菜[短]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小白菜电影.js"},
+{"key":"drpy_js_影视工场","name":"🍒影视工场[短]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影视工场.js"},
 {"key":"drpy_js_影视之家[V2]","name":"🍒影视之家","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影视之家[V2].js"},
 {"key":"drpy_js_奈飞狗[V2]","name":"🍒奈飞狗","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奈飞狗[V2].js"},
 {"key":"drpy_js_xb6v","name":"🍒新版6v","type":3,"api":"./lib/drpy2.min.js","ext":"./js/xb6v.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
@@ -242,7 +242,7 @@
     },
     {
       "key": "柒月",
-      "name": "N14柒月影视",
+      "name": "N14柒月影视[短]",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -307,7 +307,7 @@
     },
     {
       "key": "①暴風",
-      "name": "N🌊暴風采集",
+      "name": "N♻️暴風采集",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -315,7 +315,7 @@
     },
     {
       "key": "①iKun",
-      "name": "N♻️iKun采集",
+      "name": "N♻️iKun采集[短]",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -354,7 +354,7 @@
     },
     {
       "key": "影探",
-      "name": "N影探影院",
+      "name": "N经典影院",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/yt.js"
@@ -1345,16 +1345,7 @@
       "filterable": 1,
       "ext": "./json/短剧网.json"
     },
-    {
-      "key": "meowtv_fqdj",
-      "name": "📱番茄短剧",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/番茄短剧.js"
-    },
+
     {
       "key": "meowtv_rxdj",
       "name": "📱锐星短剧",
