@@ -71,7 +71,7 @@
             "type": 3,
             "api": "csp_TTian",
             "playerType": 2,
-	"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/python2/master/jar/yydf.txt", 
+	"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/python2/master/jar/yydf.txt;md5;f90dbcbf8dd966817a5db78abb758023", 
             "ext": "http://app.kzjtv.com"
         },
 
@@ -176,6 +176,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
+	"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/python2/master/jar/yydf.txt;md5;f90dbcbf8dd966817a5db78abb758023", 
 			"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/python2/master/jar/yydf.txt", 
 
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/python2/master/json/%E5%90%BE%E7%88%B1%E8%A7%A3%E8%AF%B4.json"
