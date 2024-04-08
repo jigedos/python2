@@ -62,6 +62,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+	"spider": "./yydf/txt/yydf.txt;md5;f90dbcbf8dd966817a5db78abb758023",
             "ext": "./json/秒播.json"
         },
 	   {
@@ -70,6 +71,7 @@
             "type": 3,
             "api": "csp_TTian",
             "playerType": 2,
+	"spider": "./yydf/txt/yydf.txt;md5;f90dbcbf8dd966817a5db78abb758023", 
             "ext": "http://app.kzjtv.com"
         },
 
@@ -81,6 +83,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+	"spider": "./yydf/txt/yydf.txt;md5;f90dbcbf8dd966817a5db78abb758023",
             "ext": "./json/vip.json"
         },
  {
@@ -112,6 +115,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
+	"spider": "./yydf/txt/yydf.txt;md5;f90dbcbf8dd966817a5db78abb758023",
             "ext": "./json/吾爱乐器.json"
         },
         {
