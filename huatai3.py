@@ -22,6 +22,60 @@
       "quickSearch": 0,
       "filterable": 1
     },
+       {
+            "key": "Pandalivetv",
+            "name": "💯韩女直播",
+            "type": 3,
+            "api": "csp_WexPandalivetv",
+            "searchable": 0,
+            "changeable": 0,
+            "jar": "./jar/kor.jar;md5;1a93958bfdeb969dbdfd3478e7f8b61e"
+        },
+	  {
+            "key": "咕噜",
+            "name": "🔥宇宙四线[短]",
+            "jar": "./jar/yuzou.jar;md5;85eb7c33792c9bd8cd181596a168deba",
+            "type": 3,
+            "api": "csp_Movie2",
+            "ext": "./json/yuzou.json"
+        },
+	   {
+            "key": "云2",
+            "name": "🔥梦影[短]",
+            "type": 3,
+            "api": "csp_Movie2",
+            "jar": "./jar/yuzou.jar;md5;85eb7c33792c9bd8cd181596a168deba",
+            "ext": "./json/yuzou.json",
+            "categories": [
+                "短剧",
+                "电影",
+                "电视剧",
+                "综艺",
+                "动漫"
+            ]
+        },
+	 
+ {
+            "key": "业余采集A",
+            "name": "♻业余自营[短] ",
+            "type": 1,
+            "api": "http://154.3.2.163/api.php/provide/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "短剧",
+                "电影",
+                "电视剧",
+                "动漫",
+                "综艺",
+                "记录片",
+                "音乐",
+                "影视解说",
+                "体育"
+            ]
+        },
     {"key":"Moli","name":"🍒高清线路5","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./json/moli.json","jar": "./jar/pg1.jar;md5;20951b7b8b4979ec1214839a2b2e36b8"},
 {"key":"4KHDR","name":"🍒4KHDR","type":3,"api":"csp_FourKHDR","ext":"http://127.0.0.1:9978/file/TV/token.json$$$http://127.0.0.1:9978/file/TV/4khdr.txt","quickSearch":1,"changeable":1,"timeout":60,"jar": "./jar/pg1.jar;md5;20951b7b8b4979ec1214839a2b2e36b8"},
 {"key":"Panta","name":"🍒预览画质[短]","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.91panta.cn/$$$null$$$1","jar": "./jar/pg1.jar;md5;20951b7b8b4979ec1214839a2b2e36b8"},
