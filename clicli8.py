@@ -22,6 +22,194 @@
       "quickSearch": 0,
       "filterable": 1
     },
+	   {
+            "key": "Pandalivetv",
+            "name": "💯韩女直播",
+            "type": 3,
+            "api": "csp_WexPandalivetv",
+            "searchable": 0,
+            "changeable": 0,
+            "jar": "./jar/kor.jar;md5;1a93958bfdeb969dbdfd3478e7f8b61e"
+        },
+	  {
+            "key": "咕噜",
+            "name": "🔥宇宙四线[短]",
+            "jar": "./jar/yuzou.jar;md5;85eb7c33792c9bd8cd181596a168deba",
+            "type": 3,
+            "api": "csp_Movie2",
+            "ext": "./json/yuzou.json"
+        },
+	   {
+            "key": "云2",
+            "name": "🔥梦影[短]",
+            "type": 3,
+            "api": "csp_Movie2",
+            "jar": "./jar/yuzou.jar;md5;85eb7c33792c9bd8cd181596a168deba",
+            "ext": "./json/yuzou.json",
+            "categories": [
+                "短剧",
+                "电影",
+                "电视剧",
+                "综艺",
+                "动漫"
+            ]
+        },
+	  {
+            "key": "csp_xBPQ_秒",
+            "name": "👿秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./json/秒播.json"
+        },
+	   {
+            "key": "追剧",
+            "name": "🐁追剧",
+            "type": 3,
+            "api": "csp_TTian",
+            "playerType": 2,
+            "ext": "http://app.kzjtv.com"
+        },
+
+{
+            "key": "csp_xp_vip",
+            "name": "💧VIP影视",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./json/vip.json"
+        },
+ {
+            "key": "业余采集A",
+            "name": "♻业余自营 ",
+            "type": 1,
+            "api": "http://154.3.2.163/api.php/provide/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "短剧",
+                "电影",
+                "电视剧",
+                "动漫",
+                "综艺",
+                "记录片",
+                "音乐",
+                "影视解说",
+                "体育"
+            ]
+        },
+{
+            "key": "吾爱乐器",
+            "name": "🥁 我爱乐器 ",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/吾爱乐器.json"
+        },
+        {
+            "key": "美食",
+            "name": "🥞 美食合集 ",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/吾爱美食.json"
+        },
+        {
+            "key": "吾爱舞蹈",
+            "name": "💃 吾爱舞蹈 ",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/吾爱舞蹈.json"
+        },
+        {
+            "key": "吾爱户外",
+            "name": "🚵🏻 吾爱户外 ",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/吾爱户外.json"
+        },
+        {
+            "key": "吾爱戏曲",
+            "name": "💕 吾爱戏曲 ",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/吾爱戏曲.json"
+        },
+        {
+            "key": "吾爱搭配",
+            "name": "⛸ 吾爱搭配 ",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/吾爱搭配.json"
+        },
+        {
+            "key": "吾爱解说",
+            "name": "👾 吾爱解说 ",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/吾爱解说.json"
+        },
+        {
+            "key": "吾爱演唱会",
+            "name": "🎸 吾爱演唱会 ",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/吾爱演唱会.json"
+        },
+        {
+            "key": "吾爱经典",
+            "name": "🎷 吾爱音乐 ",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/吾爱经典.json"
+        },
+        {
+            "key": "吾爱球星",
+            "name": "⚽️ 吾爱球星 ",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/吾爱球星.json"
+        },
+
+
+
+
+
+	  
    {
       "key": "优酷",
       "name": "1优酷资源站",
