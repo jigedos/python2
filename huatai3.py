@@ -22,6 +22,56 @@
       "quickSearch": 0,
       "filterable": 1
     },
+	  	{
+			"key": "348影视",
+			"name": "🚛348┃秒播",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://svip.weixine.net:88/uploads/itvbox/sub/348.json"
+		},
+{
+			"key": "子子影视",
+			"name": "🚛子子┃秒播",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://svip.weixine.net:88/uploads/itvbox/sub/zizi.json"
+		},
+{
+			"key": "在线之家",
+			"name": "🚛外剧┃秒播",
+			"type": 3,
+			"api": "http://svip.weixine.net:88/uploads/itvbox/js/lib/drpy2.min.js",
+			"ext": "http://svip.weixine.net:88/uploads/itvbox/js/zaixian.js"
+		},
+{
+			"key": "看吧TV",
+			"name": "🚛看吧TV",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://svip.weixine.net:88/uploads/itvbox/sub/dianyinghezi.json"
+		},
+{
+			"key": "石榴影视",
+			"name": "🚛石榴影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://svip.weixine.net:88/uploads/itvbox/sub/shiliu.json"
+		},
+
+
+	  
        {
             "key": "Pandalivetv",
             "name": "💯韩女直播",
