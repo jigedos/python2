@@ -788,7 +788,7 @@
     },
     {
       "key": "meowtv_yszj",
-      "name": "💕🎞️迪哥AD",
+      "name": "🎞️迪哥🅰️🎰",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -796,18 +796,10 @@
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
-    {
-      "key": "天天",
-      "name": "💕🎞️天天",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 1,
-      "jar": "./jar/xb.txt",
-      "ext": "http://op.ysdqjs.cn$$$null$$$1"
-    },
+
     {
       "key": "meowtv_kkys",
-      "name": "💕🎞️快看",
+      "name": "🎞️快看🅰️",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -817,7 +809,7 @@
     },
     {
       "key": "csp_五月",
-      "name": "💕🎞️五月",
+      "name": "🎞️五月🅰️",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -827,7 +819,7 @@
     },
     {
       "key": "宅腐APP",
-      "name": "💕🎞️百合",
+      "name": "🎞️百合🅰️🎰🚸",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -837,7 +829,7 @@
     },
     {
       "key": "csp_XYQHiker_量子影视",
-      "name": "🔅🎞️量子影视",
+      "name": "🎞️量子影视🅱️",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -847,7 +839,7 @@
     },
     {
       "key": "csp_XYQHiker_影视工场",
-      "name": "🔅🎞️影视工场",
+      "name": "🎞️影视工场🅱️",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -857,7 +849,7 @@
     },
     {
       "key": "csp_XYQHiker_电影盒子",
-      "name": "🔅🎞️电影盒子",
+      "name": "🎞️电影盒子🅰️",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 2,
@@ -868,7 +860,7 @@
     },
     {
       "key": "csp_XYQHiker_子子影视",
-      "name": "🔅🎞️子子影视",
+      "name": "🎞️子子影视🅰️🎰🚸",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -878,7 +870,7 @@
     },
     {
       "key": "csp_XYQBiu_骚火电影VIP",
-      "name": "🔅🎞️骚火电影VIP",
+      "name": "🎞️电影VIP🅰️",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -886,32 +878,18 @@
       "filterable": 1,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/XYQBiu/骚火电影VIP.json"
     },
-    {
-      "key": "drpy_js_555影视[V2]",
-      "name": "🔅🎞️555影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/555影视[V2].js"
-    },
+
     {
       "key": "drpy_js_低端影视",
-      "name": "🔅🎞️低端影视",
+      "name": "🎞️低端影视🅰️",
       "type": 3,
       "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
       "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/低端影视.js"
     },
-    {
-      "key": "csp_DiDuan",
-      "name": "🔅🎞️低端影视",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+
     {
       "key": "天翼资源",
-      "name": "🔅🎞️天翼资源",
+      "name": "🎞️天翼资源🅱️",
       "type": 1,
       "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
       "playUrl": "",
@@ -941,7 +919,7 @@
     },
     {
       "key": "zy_最大资源",
-      "name": "🔅🎞️最大资源",
+      "name": "🎞️最大资源🅱️🎰",
       "type": 1,
       "api": "https://zuidazy.co//api.php/provide/vod/",
       "searchable": 1,
@@ -963,39 +941,10 @@
         "伦理片"
       ]
     },
-    {
-      "key": "闪电资源",
-      "name": "🔅🎞️闪电资源",
-      "type": 1,
-      "api": "http://sdzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "国产剧",
-        "大陆综艺",
-        "国产动漫",
-        "日韩综艺",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "悬疑片",
-        "犯罪片",
-        "动画片",
-        "奇幻片",
-        "港台剧",
-        "欧美剧",
-        "日韩剧",
-        "其他剧"
-      ]
-    },
+   
     {
       "key": "鸭奈飞",
-      "name": "🔅🎞️鸭奈飞",
+      "name": "🎞️鸭奈飞🅰️",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -1005,7 +954,7 @@
     },
     {
       "key": "2聚合",
-      "name": "🔅🎞️遇见",
+      "name": "🎞️遇见🅰️",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -1013,20 +962,10 @@
       "filterable": 1,
       "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
     },
-    {
-      "key": "csp_Xunlei8",
-      "name": "🔅💾迅雷吧",
-      "jar": "http://nctv.top/tv/jar/custom_spider.jar;md5;694a5575722bb086b6fde7a23a68a1d8",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
     {
       "key": "csp_XYQHikerdyx",
-      "name": "🔅💾电影港力",
+      "name": "💾电影港🅰️",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1035,37 +974,18 @@
       "ext": "http://nctv.top/tv/sub/电影港.json",
       "jar": "http://nctv.top/tv/jar/custom_spider.jar;md5;694a5575722bb086b6fde7a23a68a1d8"
     },
-    {
-      "key": "csp_Mp4Mov",
-      "name": "🔅💾MP4电影",
-      "jar": "http://nctv.top/tv/jar/custom_spider.jar;md5;694a5575722bb086b6fde7a23a68a1d8",
-      "type": 3,
-      "api": "csp_Mp4Mov",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "农民影视",
-      "name": "📽️农民",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/jar.php",
-      "ext": "./lib/农民影视.json"
-    },
+   
+   
     {
       "key": "drpy_js_哔哩影视",
-      "name": "📽️哔哩",
+      "name": "📽️哔哩🅰️",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/哔哩影视.js"
     },
     {
       "key": "meowtv_dyxs",
-      "name": "📽️先生影视",
+      "name": "📽️先生影视🅰️",
       "type": 3,
       "api": "http://cdn.teyonds.com/js/drpy2.min.js",
       "searchable": 1,
@@ -1075,7 +995,7 @@
     },
     {
       "key": "meowtv_mays",
-      "name": "📽️米爱影视",
+      "name": "📽️米爱影视🅰️",
       "type": 3,
       "api": "http://cdn.teyonds.com/js/drpy2.min.js",
       "searchable": 1,
@@ -1085,7 +1005,7 @@
     },
     {
       "key": "meowtv_dgys",
-      "name": "📽️达龟影视AD",
+      "name": "📽️达龟影视🅰️🎰",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -1095,7 +1015,7 @@
     },
     {
       "key": "meowtv_xxys",
-      "name": "📽️新新影视",
+      "name": "📽️新新影视🅱️",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -1105,7 +1025,7 @@
     },
     {
       "key": "meowtv_lzzy",
-      "name": "📽️量子资源",
+      "name": "📽️量子资源🅱️",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1131,7 +1051,7 @@
     },
     {
       "key": "快看影视",
-      "name": "📽️快看影视",
+      "name": "📽️线路16🅱️",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -1140,7 +1060,7 @@
     },
     {
       "key": "暴风资源",
-      "name": "🌩️暴风资源",
+      "name": "🌩️暴风资源🅱️",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "changeable": 0,
@@ -1162,7 +1082,7 @@
     },
     {
       "key": "淘片资源",
-      "name": "🐅淘片资源",
+      "name": "🐅淘片资源🅰️",
       "type": 0,
       "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html",
       "playUrl": "",
@@ -1170,21 +1090,16 @@
     },
     {
       "key": "e173267b0d7e1f1a1189c22c3bb7b556",
-      "name": "🏖️淘片AD",
+      "name": "🏖️淘片🅰️🎰",
       "jar": " ./jar/fan1.txt",
       "type": 0,
       "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html"
     },
-    {
-      "key": "荐片影视",
-      "name": "🌴荐片影视",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
-    },
+
+    
     {
       "key": "csp_JianPian",
-      "name": "📀荐片",
+      "name": "📀荐片🅱️",
       "type": 3,
       "api": "csp_JianPian",
       "playerType": 1,
@@ -1194,7 +1109,7 @@
     },
     {
       "key": "csp_热播",
-      "name": "💯热播极速",
+      "name": "💯热播极速🅱️",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1204,7 +1119,7 @@
     },
     {
       "key": "新建",
-      "name": "🌷新6V[2]",
+      "name": "🌷新6V[2]🅱️",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -1328,17 +1243,7 @@
       "filterable": 1,
       "ext": "./json/6v.json"
     },
-    {
-      "key": "电影港",
-      "name": "🧲DYG磁 4K",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/dyg.json"
-    },
-    {
+ 
       "key": "csp_非凡",
       "name": "✈️非凡1",
       "type": 3,
