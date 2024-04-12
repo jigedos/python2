@@ -669,7 +669,7 @@
     },
     {
       "key": "py_cctv",
-      "name": "CCTV转播",
+      "name": "🇨🇳CCTV转播",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -679,7 +679,7 @@
     },
     {
       "key": "央视经典",
-      "name": "💫CCTV┃经典",
+      "name": "🇨🇳CCTV┃经典",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1906,6 +1906,66 @@
       "type": 3,
       "url": "Web"
     },
+    {
+      "name": "官源解析1",
+      "type": 1,
+      "url": "http://llyh.xn--yi7aa.top/api/?key=fc82dde9869c739e362a0b6fceb2195b&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    },
+    {
+      "name": "官源解析2",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
     {
       "name": "非凡火力",
       "type": 1,
