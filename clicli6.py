@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/nb1202.jar;md5;80e2d5045e8cd48beb132870b4a339e0",
+  "spider": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt;md5;4754fa970b875d20822e2121b4a0c863",
   "wallpaper": "http://xhww.fun:63/img.php",
   "lives": [
     {
